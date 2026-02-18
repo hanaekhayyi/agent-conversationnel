@@ -1,0 +1,41 @@
+# Configuration globale multi-agent
+project_name: "Maroclear Multi-Agent System"
+version: "1.0.0"
+
+# LLM Local (Ollama)
+llm:
+  provider: "ollama"
+  model: "mistral:7b-instruct"
+  base_url: "http://localhost:11434"
+  temperature: 0.2  # Bas pour réponses factuelles
+  max_tokens: 800
+
+# Embeddings Local
+embeddings:
+  model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"  # Support français
+  device: "cpu"  # ou "cuda" si GPU disponible
+  batch_size: 32
+
+# Vector Store (ChromaDB local)
+vector_store:
+  provider: "chromadb"
+  persist_directory: "data/vectordb"
+  collection_name: "maroclear_knowledge"
+  distance_metric: "cosine"
+
+# RAG Settings
+rag:
+  chunk_size: 500
+  chunk_overlap: 50
+  top_k: 5  # Nombre de documents à récupérer
+  distance_threshold: 4.5  # Seuil de distance (augmenté pour capturer plus de résultats)
+
+# Documents sources
+documents:
+  sources_dir: "data/documents"
+  supported_formats: [".pdf"]
+
+# Multi-Agent Settings
+multi_agent:
+  max_iterations: 10
+  timeout_seconds: 30
