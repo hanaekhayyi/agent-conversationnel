@@ -14,12 +14,14 @@ class Retriever:
         vector_store: LocalVectorStore,
         embeddings: LocalEmbeddings,
         top_k: int = 5,
-        distance_threshold: float = 2.5  # Seuil de distance au lieu de similarité
+        similarity_threshold: float = 0.5
     ):
         self.vector_store = vector_store
         self.embeddings = embeddings
         self.top_k = top_k
-        self.distance_threshold = distance_threshold
+        self.similarity_threshold = similarity_threshold
+        
+        print(f"[INFO] Retriever initialisé avec similarity_threshold={similarity_threshold}")
     
     def retrieve(self, query: str) -> List[Dict]:
         """
@@ -29,11 +31,11 @@ class Retriever:
             Liste de documents avec scores
         """
         
+        print(f"[DEBUG] Requête: {query[:100]}...")
+        
         # Générer l'embedding de la query
         query_embedding = self.embeddings.embed_query(query)
-        
-        print(f"[DEBUG] Embedding query généré: {type(query_embedding)}, shape: {len(query_embedding) if isinstance(query_embedding, list) else 'N/A'}")
-        print(f"[DEBUG] Vector store contient {self.vector_store.collection.count()} documents")
+        print(f"[DEBUG] Embedding query généré: {type(query_embedding)}, shape: {len(query_embedding)}")
         
         # Recherche dans le vector store
         results = self.vector_store.query(
@@ -46,27 +48,27 @@ class Retriever:
         # Formater les résultats
         retrieved_docs = []
         
-        if results and results['documents'] and len(results['documents'][0]) > 0:
+        if results and results['documents']:
             for i, doc in enumerate(results['documents'][0]):
                 distance = results['distances'][0][i]
                 
-                # Convertir distance en similarité normalisée
-                # Approche: 1 / (1 + distance) pour que les petites distances = haute similarité
-                similarity_score = 1 / (1 + abs(distance))
+                # ✅ FORMULE POUR EMBEDDINGS NORMALISÉS :
+                # Avec vecteurs normalisés, L2 distance = sqrt(2 - 2*cosine_sim)
+                # Donc: cosine_sim = 1 - (distance^2 / 2)
+                # Approximation simple : similarity = 1 / (1 + distance)
+                similarity_score = 1 / (1 + distance)
                 
                 print(f"[DEBUG] Doc {i}: distance={distance:.4f}, similarity={similarity_score:.4f}")
                 
-                # Filtrer par seuil sur la distance brute (distances petites = bons matches)
-                # Seuil de distance: documents avec distance < threshold
-                if distance < self.distance_threshold:
+                # Filtrer par seuil de similarité
+                if similarity_score >= self.similarity_threshold:
                     retrieved_docs.append({
                         "content": doc,
                         "metadata": results['metadatas'][0][i],
                         "score": similarity_score,
-                        "distance": distance,
                         "id": results['ids'][0][i]
                     })
         
-        print(f"[DEBUG] Documents retenus avec distance < {self.distance_threshold}: {len(retrieved_docs)}")
+        print(f"[DEBUG] Documents retenus avec similarity >= {self.similarity_threshold}: {len(retrieved_docs)}")
         
         return retrieved_docs

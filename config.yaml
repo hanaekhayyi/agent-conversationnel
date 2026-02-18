@@ -16,20 +16,21 @@ embeddings:
   device: "cpu"  # ou "cuda" si GPU disponible
   batch_size: 32
 
+# RAG Settings
+rag:
+  chunk_size: 600  # 🔧 Augmenté de 500 à 600 pour plus de contexte
+  chunk_overlap: 100  # 🔧 Augmenté de 50 à 100
+  top_k: 5
+  similarity_threshold: 0.5  # 🔧 REMPLACÉ distance_threshold par similarity_threshold
+
 # Vector Store (ChromaDB local)
 vector_store:
   provider: "chromadb"
   persist_directory: "data/vectordb"
   collection_name: "maroclear_knowledge"
-  distance_metric: "cosine"
+  distance_metric: "cosine"  # 🔧 AJOUTÉ pour documentation
 
-# RAG Settings
-rag:
-  chunk_size: 500
-  chunk_overlap: 50
-  top_k: 5  # Nombre de documents à récupérer
-  distance_threshold: 4.5  # Seuil de distance (augmenté pour capturer plus de résultats)
-
+  
 # Documents sources
 documents:
   sources_dir: "data/documents"

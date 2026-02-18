@@ -134,7 +134,7 @@ def test_rag_agent(config, vector_store=None, embeddings_model=None):
         vector_store=vector_store,
         embeddings=embeddings_model,
         top_k=config['rag']['top_k'],
-        distance_threshold=config['rag']['distance_threshold']
+        similarity_threshold=config['rag']['similarity_threshold']
     )
     
     # Créer le client LLM
