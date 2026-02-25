@@ -1,0 +1,2846 @@
+{
+  "total_chunks": 240,
+  "stats": {
+    "by_type": {
+      "glossaire": 192,
+      "narrative": 48
+    },
+    "length_min": 52,
+    "length_max": 1251,
+    "length_avg": 329
+  },
+  "chunks": [
+    {
+      "index": 0,
+      "preview": "Avoirs indifférenciés ↵ Toute instruction sur les avoirs ne comportant pas d'indication quant à la catégorie d'avoirs à cr",
+      "length": 140,
+      "metadata": {
+        "term": "Avoirs indifférenciés",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Avoirs indifférenciés\nToute instruction sur les avoirs ne comportant pas d'indication quant à la catégorie d'avoirs à créditer ou à débiter."
+    },
+    {
+      "index": 1,
+      "preview": "Avis d'opéré ↵ L'avis d'opéré est le récapitulatif d'un ordre passé par une banque ou société de bourse pour le compte de ",
+      "length": 572,
+      "metadata": {
+        "term": "Avis d'opéré",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Avis d'opéré\nL'avis d'opéré est le récapitulatif d'un ordre passé par une banque ou société de bourse pour le compte de son client. Il transite obligatoirement par Maroclear qui les communique aux dépositaires concernés par l'opération. Le document rassemble l'ensemble des informations sur l'ordre passé : le sens, la quantité, le cours, l'heure d'exécution, la tarification. Le client dispose de deux jours pour contester la passation de l'ordre. Les avis d'opéré acceptés génèrent des flux irrévocables entre les sociétés de bourse intermédiaires et leurs dépositaires."
+    },
+    {
+      "index": 2,
+      "preview": "Autorité de marché ↵ Autorité publique chargée d'une mission de régulation du marché, dotée d'attributions importantes (po",
+      "length": 489,
+      "metadata": {
+        "term": "Autorité de marché",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Autorité de marché\nAutorité publique chargée d'une mission de régulation du marché, dotée d'attributions importantes (pouvoir quasi réglementaire, pouvoir de contrôle et d'enquête et pouvoir de sanction) applicables tant aux marchés qu'aux intervenants professionnels ou non professionnels et bénéficiant d'une certaine indépendance, tant vis à vis de l'Etat que du secteur régulé. Au Maroc, c'est le Conseil déontologique des valeurs mobilières (CDVM) qui représente l'autorité de marché."
+    },
+    {
+      "index": 3,
+      "preview": "Augmentation de capital ↵ Lorsqu'une société a besoin de fonds, elle peut procéder à une augmentation de capital. Elle pro",
+      "length": 259,
+      "metadata": {
+        "term": "Augmentation de capital",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Augmentation de capital\nLorsqu'une société a besoin de fonds, elle peut procéder à une augmentation de capital. Elle propose -généralement aux anciens actionnaires- de souscrire à de nouveaux titres, à un prix en principe inférieur au dernier cours de bourse."
+    },
+    {
+      "index": 4,
+      "preview": "Association of national numbering agencies (ANNA) ↵ Association internationale qui regroupe les agences nationales de codi",
+      "length": 159,
+      "metadata": {
+        "term": "Association of national numbering agencies (ANNA)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Association of national numbering agencies (ANNA)\nAssociation internationale qui regroupe les agences nationales de codification adhérentes à travers le monde."
+    },
+    {
+      "index": 5,
+      "preview": "Assemblée générale ordinaire ↵ C'est la réunion des actionnaires d'une société. Elle se tient au moins une fois par an, da",
+      "length": 272,
+      "metadata": {
+        "term": "Assemblée générale ordinaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Assemblée générale ordinaire\nC'est la réunion des actionnaires d'une société. Elle se tient au moins une fois par an, dans les six mois suivant la clôture de l'exercice, et a pour objectif principal de présenter aux actionnaires le déroulement des activités de la société."
+    },
+    {
+      "index": 6,
+      "preview": "Assemblée générale extraordinaire ↵ L'assemblée générale peut être convoquée à la demande de la direction de l'entreprise ",
+      "length": 345,
+      "metadata": {
+        "term": "Assemblée générale extraordinaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Assemblée générale extraordinaire\nL'assemblée générale peut être convoquée à la demande de la direction de l'entreprise ou d'un groupe d'actionnaires. Elle est appelée à se prononcer sur les modifications de capital, de statut et sur toute opération susceptible de modifier la constitution du capital ou les opérations courantes de l'entreprise."
+    },
+    {
+      "index": 7,
+      "preview": "Arrêté n° 932-98 ↵ Texte réglementaire du 16/04/1998 portant approbation du règlement général du Dépositaire Central.",
+      "length": 115,
+      "metadata": {
+        "term": "Arrêté n° 932-98",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Arrêté n° 932-98\nTexte réglementaire du 16/04/1998 portant approbation du règlement général du Dépositaire Central."
+    },
+    {
+      "index": 8,
+      "preview": "Arrêté n° 284-02 ↵ Texte réglementaire du 14/02/2002 régissant la vente des titres.",
+      "length": 81,
+      "metadata": {
+        "term": "Arrêté n° 284-02",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Arrêté n° 284-02\nTexte réglementaire du 14/02/2002 régissant la vente des titres."
+    },
+    {
+      "index": 9,
+      "preview": "Apport de titres ↵ Opération qui permet à un actionnaire de transférer des titres cotés à une autre personne, physique ou ",
+      "length": 338,
+      "metadata": {
+        "term": "Apport de titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Apport de titres\nOpération qui permet à un actionnaire de transférer des titres cotés à une autre personne, physique ou morale, en contrepartie d'avantages convenus entre les deux. L'apport s'opère en dehors de la feuille de marché. Considéré comme une transaction, il est soumis à l'obligation d'enregistrement à la Bourse de Casablanca."
+    },
+    {
+      "index": 10,
+      "preview": "Appel public à l'épargne ↵ Il y a appel public à l'épargne en cas de négociation d'un titre (action, obligation…) sur le m",
+      "length": 298,
+      "metadata": {
+        "term": "Appel public à l'épargne",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Appel public à l'épargne\nIl y a appel public à l'épargne en cas de négociation d'un titre (action, obligation…) sur le marché boursier ou tout autre marché réglementé, ou en cas d'émission ou de cession de titres auprès du grand public en ayant recours à la souscription, à la vente ou à l'échange."
+    },
+    {
+      "index": 11,
+      "preview": "Appariement ↵ Le Dépositaire Central reconstitue les paires des instructions qui vont ensemble. Les deux instructions sont",
+      "length": 350,
+      "metadata": {
+        "term": "Appariement",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Appariement\nLe Dépositaire Central reconstitue les paires des instructions qui vont ensemble. Les deux instructions sont appariées (matched) si l'une est une réception et l'autre une livraison, selon des critères d'appariement qui doivent être identiques pour les deux instructions : titre, quantité, montant, date de négociation, date de dénouement."
+    },
+    {
+      "index": 12,
+      "preview": "Aller/Retour (opération d') ↵ Se dit d'une opération rapide d'achat et de vente sur une même valeur, au cours de la même j",
+      "length": 152,
+      "metadata": {
+        "term": "Aller/Retour (opération d')",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Aller/Retour (opération d')\nSe dit d'une opération rapide d'achat et de vente sur une même valeur, au cours de la même journée dans un intervalle court."
+    },
+    {
+      "index": 13,
+      "preview": "Agence marocaine de codification (AMC) ↵ En tant qu'Agence marocaine de codification (AMC), Maroclear attribue des codes a",
+      "length": 354,
+      "metadata": {
+        "term": "Agence marocaine de codification (AMC)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Agence marocaine de codification (AMC)\nEn tant qu'Agence marocaine de codification (AMC), Maroclear attribue des codes aux valeurs admises à ses opérations qui sont obligatoirement utilisés par les affiliés. Dans ce cadre, Maroclear utilise la codification ISIN (International Securities Identification Number), conformément aux standards internationaux."
+    },
+    {
+      "index": 14,
+      "preview": "African and the Middle East Depositories Association (AMEDA) ↵ Association qui a pour objectif de faciliter la communicati",
+      "length": 193,
+      "metadata": {
+        "term": "African and the Middle East Depositories Association (AMEDA)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "African and the Middle East Depositories Association (AMEDA)\nAssociation qui a pour objectif de faciliter la communication entre les dépositaires centraux des pays d'Afrique et du Moyen-Orient."
+    },
+    {
+      "index": 15,
+      "preview": "Affilié sous mandat ↵ Tout affilié donnant mandat à un autre affilié afin de gérer, en ses lieu et place, les comptes cour",
+      "length": 382,
+      "metadata": {
+        "term": "Affilié sous mandat",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Affilié sous mandat\nTout affilié donnant mandat à un autre affilié afin de gérer, en ses lieu et place, les comptes courants ouverts à son nom. Lorsque l'affilié sous mandat est intermédiaire financier habilité, son mandataire ne peut être lui-même qu'un intermédiaire financier habilité. Toute désignation de mandataire doit être préalablement approuvée par le Dépositaire Central."
+    },
+    {
+      "index": 16,
+      "preview": "Affilié de plein exercice ↵ Désigne les intermédiaires financiers habilités (banques et sociétés de bourse). Parmi les aff",
+      "length": 212,
+      "metadata": {
+        "term": "Affilié de plein exercice",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Affilié de plein exercice\nDésigne les intermédiaires financiers habilités (banques et sociétés de bourse). Parmi les affiliés dépositaires, on distingue les affiliés de plein exercice et les affiliés sous mandat."
+    },
+    {
+      "index": 17,
+      "preview": "Affilié ↵ Tout établissement émetteur de titres ayant ouvert un compte courant de titres auprès du Dépositaire Central.",
+      "length": 117,
+      "metadata": {
+        "term": "Affilié",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Affilié\nTout établissement émetteur de titres ayant ouvert un compte courant de titres auprès du Dépositaire Central."
+    },
+    {
+      "index": 18,
+      "preview": "Admission aux opérations du Dépositaire Central ↵ Désigne tout simplement le fait de devenir affilié auprès de Maroclear e",
+      "length": 178,
+      "metadata": {
+        "term": "Admission aux opérations du Dépositaire Central",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Admission aux opérations du Dépositaire Central\nDésigne tout simplement le fait de devenir affilié auprès de Maroclear et, par conséquent, d'être admis à ses diverses opérations."
+    },
+    {
+      "index": 19,
+      "preview": "Administration des titres ↵ Maroclear intervient dans la gestion de toutes les opérations sur titres (OST) affectant la vi",
+      "length": 421,
+      "metadata": {
+        "term": "Administration des titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Administration des titres\nMaroclear intervient dans la gestion de toutes les opérations sur titres (OST) affectant la vie des valeurs mobilières : paiement de dividendes ou d'intérêts, remboursements, fusions, échanges… Dans ce domaine, les services offerts aux affiliés couvrent l'information de tout événement décidé par l'émetteur, le détachement virtuel des coupons et droits et leur exercice par virement scriptural."
+    },
+    {
+      "index": 20,
+      "preview": "Actionnaire ↵ Personne détentrice des actions d'une société.",
+      "length": 58,
+      "metadata": {
+        "term": "Actionnaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Actionnaire\nPersonne détentrice des actions d'une société."
+    },
+    {
+      "index": 21,
+      "preview": "Action ↵ Titre de propriété représentatif d'une partie du capital de l'entreprise qui l'émet. L'action peut rapporter un d",
+      "length": 232,
+      "metadata": {
+        "term": "Action",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Action\nTitre de propriété représentatif d'une partie du capital de l'entreprise qui l'émet. L'action peut rapporter un dividende et donne un droit de vote à son propriétaire. Elle peut être cotée en bourse, mais pas obligatoirement."
+    },
+    {
+      "index": 22,
+      "preview": "Acompte sur dividende ↵ Somme versée aux actionnaires représentant une part du dividende à venir. L'acompte sur dividende ",
+      "length": 168,
+      "metadata": {
+        "term": "Acompte sur dividende",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Acompte sur dividende\nSomme versée aux actionnaires représentant une part du dividende à venir. L'acompte sur dividende est fréquent dans le cas de dividende important."
+    },
+    {
+      "index": 23,
+      "preview": "BRN ordinaire ↵ Bordereau de référence nominative qui tient compte des opérations sur titres intervenues entre la date d'o",
+      "length": 246,
+      "metadata": {
+        "term": "BRN ordinaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "BRN ordinaire\nBordereau de référence nominative qui tient compte des opérations sur titres intervenues entre la date d'opération indiquée par l'intermédiaire sur le bordereau et la date d'enregistrement de l'opération dans sa propre comptabilité."
+    },
+    {
+      "index": 24,
+      "preview": "BRN individuel ↵ Bordereau de référence nominative qui distingue deux catégories de bordereaux suivant que l'opération don",
+      "length": 219,
+      "metadata": {
+        "term": "BRN individuel",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "BRN individuel\nBordereau de référence nominative qui distingue deux catégories de bordereaux suivant que l'opération dont il s'agit doit donner lieu ou non à la transmission parallèle d'un ordre de virement à Maroclear."
+    },
+    {
+      "index": 25,
+      "preview": "BRN de radiation ↵ Bordereau de référence nominative indiquant le nom des titulaires à radier dans la valeur absorbée.",
+      "length": 116,
+      "metadata": {
+        "term": "BRN de radiation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "BRN de radiation\nBordereau de référence nominative indiquant le nom des titulaires à radier dans la valeur absorbée."
+    },
+    {
+      "index": 26,
+      "preview": "BRN d'inscription ↵ Bordereau de référence nominative collectif indiquant les noms des titulaires à inscrire dans la valeu",
+      "length": 133,
+      "metadata": {
+        "term": "BRN d'inscription",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "BRN d'inscription\nBordereau de référence nominative collectif indiquant les noms des titulaires à inscrire dans la valeur absorbante."
+    },
+    {
+      "index": 27,
+      "preview": "BRN collectif ↵ Bordereau de référence nominative utilisé à l'occasion des opérations sur titres concernant les valeurs ex",
+      "length": 144,
+      "metadata": {
+        "term": "BRN collectif",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "BRN collectif\nBordereau de référence nominative utilisé à l'occasion des opérations sur titres concernant les valeurs exclusivement nominatives."
+    },
+    {
+      "index": 28,
+      "preview": "Bourse des valeurs de Casablanca ↵ La bourse des valeurs incarne le cœur du marché où s'exécutent tous les ordres de bours",
+      "length": 393,
+      "metadata": {
+        "term": "Bourse des valeurs de Casablanca",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Bourse des valeurs de Casablanca\nLa bourse des valeurs incarne le cœur du marché où s'exécutent tous les ordres de bourse et où deviennent effectifs les achats et ventes de valeurs mobilières. C'est l'une des sources de financement de l'économie. Elle permet aux sociétés privées et publiques, aux collectivités locales et à l'Etat de se procurer des fonds pour financer leurs investissements."
+    },
+    {
+      "index": 29,
+      "preview": "Bordereau de référence nominative (BRN) ↵ Bordereau émis dans le cadre d'un achat ou d'une vente de titres au nominatif. L",
+      "length": 210,
+      "metadata": {
+        "term": "Bordereau de référence nominative (BRN)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Bordereau de référence nominative (BRN)\nBordereau émis dans le cadre d'un achat ou d'une vente de titres au nominatif. L'objectif est de connaître en permanence l'identité des détenteurs d'actions au nominatif."
+    },
+    {
+      "index": 30,
+      "preview": "Bon du Trésor ↵ Un bon du Trésor est un titre de créance représentatif d'un emprunt dont l'émetteur est l'Etat.",
+      "length": 109,
+      "metadata": {
+        "term": "Bon du Trésor",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Bon du Trésor\nUn bon du Trésor est un titre de créance représentatif d'un emprunt dont l'émetteur est l'Etat."
+    },
+    {
+      "index": 31,
+      "preview": "Billet de trésorerie ↵ Le billet de trésorerie est un titre de créance, un crédit interentreprises. Il s'échange de gré à ",
+      "length": 363,
+      "metadata": {
+        "term": "Billet de trésorerie",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Billet de trésorerie\nLe billet de trésorerie est un titre de créance, un crédit interentreprises. Il s'échange de gré à gré entre les agents économiques. Le plus souvent, les acheteurs sont des acteurs recherchant une rentabilité sans un risque trop élevé. C'est aussi un moyen pour d'autres entreprises de placer leurs excédents de trésorerie sur le court terme."
+    },
+    {
+      "index": 32,
+      "preview": "Bank Al-Maghrib ↵ Bank Al-Maghrib est la banque centrale du Maroc. C'est un établissement public doté de personne morale e",
+      "length": 305,
+      "metadata": {
+        "term": "Bank Al-Maghrib",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Bank Al-Maghrib\nBank Al-Maghrib est la banque centrale du Maroc. C'est un établissement public doté de personne morale et de l'autonomie financière créée en 1959 en substitution à l'ancienne « Banque d'Etat du Maroc ». Elle comprend plusieurs directions dont Dar As-Sikkah qui frappe la monnaie marocaine."
+    },
+    {
+      "index": 33,
+      "preview": "Back up externe ↵ Système d'information distant en externe capable de prendre le relais en cas de sinistre important sur l",
+      "length": 137,
+      "metadata": {
+        "term": "Back up externe",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Back up externe\nSystème d'information distant en externe capable de prendre le relais en cas de sinistre important sur le site principal."
+    },
+    {
+      "index": 34,
+      "preview": "Cryptage des données ↵ Système de protection des informations financières en les rendant illisibles à autre que qui de dro",
+      "length": 155,
+      "metadata": {
+        "term": "Cryptage des données",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cryptage des données\nSystème de protection des informations financières en les rendant illisibles à autre que qui de droit en s'aidant de codes ou de clés."
+    },
+    {
+      "index": 35,
+      "preview": "Cours de référence ↵ C'est le cours de clôture de la séance précédente. Le cours de référence permet notamment de fixer le",
+      "length": 171,
+      "metadata": {
+        "term": "Cours de référence",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cours de référence\nC'est le cours de clôture de la séance précédente. Le cours de référence permet notamment de fixer les seuils maximum et minimum de négociation du jour."
+    },
+    {
+      "index": 36,
+      "preview": "Cours d'ouverture ↵ C'est le premier cours coté de la journée qui résulte de la confrontation générale des ordres.",
+      "length": 112,
+      "metadata": {
+        "term": "Cours d'ouverture",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cours d'ouverture\nC'est le premier cours coté de la journée qui résulte de la confrontation générale des ordres."
+    },
+    {
+      "index": 37,
+      "preview": "Cours ajusté ↵ Prise en charge d'une opération sur titres dans le cours de référence d'une action. CR = cours de clôture d",
+      "length": 158,
+      "metadata": {
+        "term": "Cours ajusté",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cours ajusté\nPrise en charge d'une opération sur titres dans le cours de référence d'une action. CR = cours de clôture de la veille – le montant du dividende."
+    },
+    {
+      "index": 38,
+      "preview": "Coupon couru ↵ Quote-part d'intérêts accumulés depuis le versement du dernier coupon d'une obligation.",
+      "length": 100,
+      "metadata": {
+        "term": "Coupon couru",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Coupon couru\nQuote-part d'intérêts accumulés depuis le versement du dernier coupon d'une obligation."
+    },
+    {
+      "index": 39,
+      "preview": "Coupon attaché ↵ Coupon qui a une obligation à option, peut être négocié séparément, et qui donne au porteur le droit d'ac",
+      "length": 204,
+      "metadata": {
+        "term": "Coupon attaché",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Coupon attaché\nCoupon qui a une obligation à option, peut être négocié séparément, et qui donne au porteur le droit d'acheter des titres ou des marchandises pendant une période et à un prix prédéterminés."
+    },
+    {
+      "index": 40,
+      "preview": "Coupon ↵ Revenu perçu par le détenteur d'une obligation, correspondant aux intérêts versés par l'émetteur. C'est l'équival",
+      "length": 155,
+      "metadata": {
+        "term": "Coupon",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Coupon\nRevenu perçu par le détenteur d'une obligation, correspondant aux intérêts versés par l'émetteur. C'est l'équivalent des dividendes pour une action."
+    },
+    {
+      "index": 41,
+      "preview": "Cotation en continu ↵ Cotation qui s'établit au fur et à mesure que se présentent, pendant toute la séance, les offres et ",
+      "length": 277,
+      "metadata": {
+        "term": "Cotation en continu",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cotation en continu\nCotation qui s'établit au fur et à mesure que se présentent, pendant toute la séance, les offres et les demandes du produit en question. A chaque nouvelle demande, on ajuste la valeur du titre. On dit que la cotation se fait en continu ou \"au fil de l'eau\"."
+    },
+    {
+      "index": 42,
+      "preview": "Cotation électronique ↵ Confrontation permanente des ordres introduits directement par les sociétés de bourse dans le cahi",
+      "length": 308,
+      "metadata": {
+        "term": "Cotation électronique",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cotation électronique\nConfrontation permanente des ordres introduits directement par les sociétés de bourse dans le cahier de cotation électronique tenu par un ordinateur central : celui-ci établit un cours d'équilibre, puis sert les ordres \"au fil de l'eau\", c'est-à-dire au fur et à mesure de leur arrivée."
+    },
+    {
+      "index": 43,
+      "preview": "Cotation ↵ Un titre est coté à partir du moment où il est admis sur un marché financier. Le cours du titre est son prix de",
+      "length": 317,
+      "metadata": {
+        "term": "Cotation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Cotation\nUn titre est coté à partir du moment où il est admis sur un marché financier. Le cours du titre est son prix de marché, établi par la rencontre des meilleures offres de vente et d'achat. Pour une entreprise, l'intérêt de la cotation est d'accéder aux marchés de capitaux et de communiquer sur son entreprise."
+    },
+    {
+      "index": 44,
+      "preview": "Conversion ↵ Désigne l'échange de titres contre d'autres titres entre les teneurs de comptes conservateurs.",
+      "length": 105,
+      "metadata": {
+        "term": "Conversion",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Conversion\nDésigne l'échange de titres contre d'autres titres entre les teneurs de comptes conservateurs."
+    },
+    {
+      "index": 45,
+      "preview": "Contrôle référentiel ↵ Contrôle des mouvements à dénouer dès leur transmission au système par rapport aux données renseign",
+      "length": 229,
+      "metadata": {
+        "term": "Contrôle référentiel",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Contrôle référentiel\nContrôle des mouvements à dénouer dès leur transmission au système par rapport aux données renseignées au niveau du référentiel de Maroclear, relatives aux valeurs, aux affiliés, aux habilitations comptables…"
+    },
+    {
+      "index": 46,
+      "preview": "Contrôle interne ↵ Fonction permanente, indépendante des unités opérationnelles, qui s'assure que la structure et l'organi",
+      "length": 293,
+      "metadata": {
+        "term": "Contrôle interne",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Contrôle interne\nFonction permanente, indépendante des unités opérationnelles, qui s'assure que la structure et l'organisation comptable du teneur de comptes respectent les dispositions prévues par les textes de référence et notamment par le règlement général et les instructions de Maroclear."
+    },
+    {
+      "index": 47,
+      "preview": "Contrats ↵ Les contrats sont des flux irrévocables inter sociétés de bourse qui sont transmis en J par la Bourse de Casabl",
+      "length": 219,
+      "metadata": {
+        "term": "Contrats",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Contrats\nLes contrats sont des flux irrévocables inter sociétés de bourse qui sont transmis en J par la Bourse de Casablanca à Maroclear dès la fin des négociations. Chaque contrat doit être couvert par un avis d'opéré."
+    },
+    {
+      "index": 48,
+      "preview": "Compte émission ↵ Maroclear centralise la conservation de l'intégrité des titres qui lui sont confiés. Un plan comptable t",
+      "length": 340,
+      "metadata": {
+        "term": "Compte émission",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte émission\nMaroclear centralise la conservation de l'intégrité des titres qui lui sont confiés. Un plan comptable titres définissant les règles de conservation et de circulation des valeurs mobilières s'impose tant à Maroclear qu'à ses affiliés, de façon à conférer à la conservation scripturale un maximum d'étanchéité et de sécurité."
+    },
+    {
+      "index": 49,
+      "preview": "Compte de trésorerie ↵ Compte utilisé pour enregistrer la conservation des avoirs des teneurs de compte-conservateurs aupr",
+      "length": 253,
+      "metadata": {
+        "term": "Compte de trésorerie",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de trésorerie\nCompte utilisé pour enregistrer la conservation des avoirs des teneurs de compte-conservateurs auprès des dépositaires centraux ou, s'agissant des teneurs de comptes conservateurs sous mandat, simplement auprès de leurs mandataires."
+    },
+    {
+      "index": 50,
+      "preview": "Compte de suspens ↵ Compte qui retrace les opérations en attente d'appariement ou d'ajustement nécessitant le différé d'im",
+      "length": 278,
+      "metadata": {
+        "term": "Compte de suspens",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de suspens\nCompte qui retrace les opérations en attente d'appariement ou d'ajustement nécessitant le différé d'imputation définitive, soit parce qu'elles doivent donner lieu à des formalités ou des vérifications, soit parce que leur nature exige techniquement des délais."
+    },
+    {
+      "index": 51,
+      "preview": "Compte de sortie ↵ Ouvert au profit du centralisateur à l'occasion d'opérations financières diverses (échange, rembourseme",
+      "length": 215,
+      "metadata": {
+        "term": "Compte de sortie",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de sortie\nOuvert au profit du centralisateur à l'occasion d'opérations financières diverses (échange, remboursement, conversion d'obligations en actions, exercices de droit d'attribution ou de souscription…)."
+    },
+    {
+      "index": 52,
+      "preview": "Compte de provision de garantie ↵ Compte ouvert à l'occasion d'opérations financières (attributions, souscriptions…) au no",
+      "length": 276,
+      "metadata": {
+        "term": "Compte de provision de garantie",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de provision de garantie\nCompte ouvert à l'occasion d'opérations financières (attributions, souscriptions…) au nom du centralisateur destiné à enregistrer temporairement les titres nouveaux dans l'attente de leur répartition entre les établissements teneurs de comptes."
+    },
+    {
+      "index": 53,
+      "preview": "Compte de négociation ↵ Dans le processus de dénouement des négociations sur valeurs exclusivement nominatives, les compte",
+      "length": 235,
+      "metadata": {
+        "term": "Compte de négociation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de négociation\nDans le processus de dénouement des négociations sur valeurs exclusivement nominatives, les comptes de négociations des sociétés de bourse forment la contrepartie des comptes \"achat\" et \"vente\" des intermédiaires."
+    },
+    {
+      "index": 54,
+      "preview": "Compte de centralisation ↵ Compte gérant les attributions relatives aux diverses opérations sur titres.",
+      "length": 101,
+      "metadata": {
+        "term": "Compte de centralisation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte de centralisation\nCompte gérant les attributions relatives aux diverses opérations sur titres."
+    },
+    {
+      "index": 55,
+      "preview": "Compte d'ajustement ↵ Ouvert au profit des établissements centralisateurs de valeurs dont le montant de l'émission est ame",
+      "length": 314,
+      "metadata": {
+        "term": "Compte d'ajustement",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte d'ajustement\nOuvert au profit des établissements centralisateurs de valeurs dont le montant de l'émission est amené à varier régulièrement, il prend provisoirement en charge les variations du nombre de titres émis, et se purge périodiquement lors de l'actualisation du compte \"Emission\", géré par Maroclear."
+    },
+    {
+      "index": 56,
+      "preview": "Compte d'administration ↵ Compte qui contient la reproduction des inscriptions figurant sur le compte des titulaires de ti",
+      "length": 346,
+      "metadata": {
+        "term": "Compte d'administration",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte d'administration\nCompte qui contient la reproduction des inscriptions figurant sur le compte des titulaires de titres nominatifs tenu par la personne morale émettrice. Ces mêmes titulaires peuvent obtenir sa création auprès d'un intermédiaire financier habilité pour faciliter la négociation et la gestion de leurs portefeuilles de titres."
+    },
+    {
+      "index": 57,
+      "preview": "Compte courant de titres ↵ Compte auprès de Maroclear sur lequel les titres sont déposés (actions, obligations, SICAV, FCP",
+      "length": 223,
+      "metadata": {
+        "term": "Compte courant de titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compte courant de titres\nCompte auprès de Maroclear sur lequel les titres sont déposés (actions, obligations, SICAV, FCP…). Il permet de gérer les titres ainsi que les liquidités nécessaires aux transactions sur les titres."
+    },
+    {
+      "index": 58,
+      "preview": "Comptabilité-titres ↵ Comptabilité tenue valeur par valeur selon le principe de la comptabilité en partie double. Cette co",
+      "length": 378,
+      "metadata": {
+        "term": "Comptabilité-titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Comptabilité-titres\nComptabilité tenue valeur par valeur selon le principe de la comptabilité en partie double. Cette comptabilité par valeur fait l'objet d'une subdivision selon la forme juridique des titres pris en compte. La comptabilité titres de Maroclear opère une distinction entre les titres appartenant en propre au teneur de comptes et ceux appartenant à sa clientèle."
+    },
+    {
+      "index": 59,
+      "preview": "Compensation ↵ La compensation est un mécanisme permettant aux institutions financières, membres de la chambre de compensa",
+      "length": 251,
+      "metadata": {
+        "term": "Compensation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Compensation\nLa compensation est un mécanisme permettant aux institutions financières, membres de la chambre de compensation, de régler les montants dus et de recevoir les actifs correspondants aux transactions qu'elles ont effectuées sur les marchés."
+    },
+    {
+      "index": 60,
+      "preview": "Commission sur les mouvements ↵ Commission facturée par Maroclear aux teneurs de compte relative aux mouvements effectués ",
+      "length": 138,
+      "metadata": {
+        "term": "Commission sur les mouvements",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Commission sur les mouvements\nCommission facturée par Maroclear aux teneurs de compte relative aux mouvements effectués sur leurs comptes."
+    },
+    {
+      "index": 61,
+      "preview": "Commission sur les avoirs ↵ Commission facturée par Maroclear aux teneurs de compte. Elle est relative à la quantité de le",
+      "length": 141,
+      "metadata": {
+        "term": "Commission sur les avoirs",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Commission sur les avoirs\nCommission facturée par Maroclear aux teneurs de compte. Elle est relative à la quantité de leurs avoirs en titres."
+    },
+    {
+      "index": 62,
+      "preview": "Codification des valeurs ↵ En sa qualité d'Agence nationale de codification, Maroclear attribue les codes ISIN à chacune d",
+      "length": 253,
+      "metadata": {
+        "term": "Codification des valeurs",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Codification des valeurs\nEn sa qualité d'Agence nationale de codification, Maroclear attribue les codes ISIN à chacune des valeurs admises à ses opérations. Une fois attribués, les codes ISIN sont obligatoirement utilisés par les intervenants du marché."
+    },
+    {
+      "index": 63,
+      "preview": "Code ISIN ↵ Code attribué par Maroclear à chaque instrument financier (action, obligation, OPCVM…) pour l'identifier. Ces ",
+      "length": 173,
+      "metadata": {
+        "term": "Code ISIN",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Code ISIN\nCode attribué par Maroclear à chaque instrument financier (action, obligation, OPCVM…) pour l'identifier. Ces codes sont obligatoirement utilisés par les affiliés."
+    },
+    {
+      "index": 64,
+      "preview": "Code de classification des instruments financiers ↵ Le code de classification des instruments financiers (CFI) ou ISO 1096",
+      "length": 382,
+      "metadata": {
+        "term": "Code de classification des instruments financiers",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Code de classification des instruments financiers\nLe code de classification des instruments financiers (CFI) ou ISO 10962 est le standard mis au point par l'organisation internationale de normalisation ISO pour définir et décrire les instruments financiers à travers le monde. Il peut être utilisé sous forme de séries de codes uniformes par tous les acteurs des marchés financiers."
+    },
+    {
+      "index": 65,
+      "preview": "Circulation des titres ↵ Désigne le transfert de titres entre les comptes courants de titres, que ce transfert soit fait a",
+      "length": 152,
+      "metadata": {
+        "term": "Circulation des titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Circulation des titres\nDésigne le transfert de titres entre les comptes courants de titres, que ce transfert soit fait avec mouvements d'espèces ou pas."
+    },
+    {
+      "index": 66,
+      "preview": "Chambre de compensation ↵ La chambre de compensation est un organisme financier qui assure la surveillance des positions e",
+      "length": 351,
+      "metadata": {
+        "term": "Chambre de compensation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Chambre de compensation\nLa chambre de compensation est un organisme financier qui assure la surveillance des positions et a pour but d'éliminer les risques de contrepartie sur les marchés dérivés. C'est la contrepartie unique de tous les opérateurs. Elle exige la formation dans ses livres d'un dépôt de garantie le jour de la conclusion d'un contrat."
+    },
+    {
+      "index": 67,
+      "preview": "Certification ISO ↵ Procédure par laquelle une tierce partie donne une assurance écrite qu'un produit, un processus ou un ",
+      "length": 186,
+      "metadata": {
+        "term": "Certification ISO",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Certification ISO\nProcédure par laquelle une tierce partie donne une assurance écrite qu'un produit, un processus ou un service est conforme aux exigences spécifiées dans un référentiel."
+    },
+    {
+      "index": 68,
+      "preview": "Certificat nominatif ↵ Les actionnaires détenant des certificats nominatifs sont connus de la société et sont directement ",
+      "length": 167,
+      "metadata": {
+        "term": "Certificat nominatif",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Certificat nominatif\nLes actionnaires détenant des certificats nominatifs sont connus de la société et sont directement inscrits dans les comptes tenus par la société."
+    },
+    {
+      "index": 69,
+      "preview": "Certificat de dépôt ↵ Les certificats de dépôt sont des titres de créances négociables émis exclusivement par les banques ",
+      "length": 248,
+      "metadata": {
+        "term": "Certificat de dépôt",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Certificat de dépôt\nLes certificats de dépôt sont des titres de créances négociables émis exclusivement par les banques à taux fixe ou variable, moyennant un rendement qui dépend de la durée du placement et de la qualité de signature de l'émetteur."
+    },
+    {
+      "index": 70,
+      "preview": "Certificat au porteur ↵ Les certificats au porteur sont inscrits dans les comptes tenus par un intermédiaire financier. Le",
+      "length": 235,
+      "metadata": {
+        "term": "Certificat au porteur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Certificat au porteur\nLes certificats au porteur sont inscrits dans les comptes tenus par un intermédiaire financier. Leurs possesseurs ne sont pas connus de la société. Une large majorité des titres circulant au Maroc sont au porteur."
+    },
+    {
+      "index": 71,
+      "preview": "Centralisateur ↵ Ou centralisateur client. Il s'agit généralement d'une banque ou société de bourse de l'émetteur, conduit",
+      "length": 335,
+      "metadata": {
+        "term": "Centralisateur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Centralisateur\nOu centralisateur client. Il s'agit généralement d'une banque ou société de bourse de l'émetteur, conduit à gérer chez Maroclear, en qualité de domicile, dans des comptes spécifiques ouverts à son nom les titres et les opérations y afférent, pour le compte de sa clientèle à laquelle il est lié par un mandat de gestion."
+    },
+    {
+      "index": 72,
+      "preview": "Capitalisation d'une société non cotée ↵ Elle correspond à la valeur totale des actions, indiquée dans ses statuts, c'est-",
+      "length": 193,
+      "metadata": {
+        "term": "Capitalisation d'une société non cotée",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Capitalisation d'une société non cotée\nElle correspond à la valeur totale des actions, indiquée dans ses statuts, c'est-à-dire le nombre d'actions multiplié par la valeur nominale d'une action."
+    },
+    {
+      "index": 73,
+      "preview": "Capitalisation d'une société cotée ↵ Elle correspond au nombre d'actions multiplié par leur cours.",
+      "length": 96,
+      "metadata": {
+        "term": "Capitalisation d'une société cotée",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Capitalisation d'une société cotée\nElle correspond au nombre d'actions multiplié par leur cours."
+    },
+    {
+      "index": 74,
+      "preview": "Capitalisation boursière ↵ Valeur d'une société sur le marché boursier à un moment précis. Elle s'obtient en multipliant l",
+      "length": 177,
+      "metadata": {
+        "term": "Capitalisation boursière",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Capitalisation boursière\nValeur d'une société sur le marché boursier à un moment précis. Elle s'obtient en multipliant le nombre d'actions d'une société par son cours de bourse."
+    },
+    {
+      "index": 75,
+      "preview": "Capitalisation ↵ La capitalisation est un système de placement financier dont les revenus (intérêts, dividendes, plus-valu",
+      "length": 296,
+      "metadata": {
+        "term": "Capitalisation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Capitalisation\nLa capitalisation est un système de placement financier dont les revenus (intérêts, dividendes, plus-values de cessions…) ne sont pas versés périodiquement au bénéficiaire, mais transformés en capital pour produire à leur tour des revenus jusqu'à l'échéance du remboursement final."
+    },
+    {
+      "index": 76,
+      "preview": "Capital social ↵ Le capital social est composé de l'ensemble des apports (en numéraire, industrie et nature) effectué par ",
+      "length": 293,
+      "metadata": {
+        "term": "Capital social",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Capital social\nLe capital social est composé de l'ensemble des apports (en numéraire, industrie et nature) effectué par les actionnaires au moment de la création ou de l'augmentation de capital d'une société. Au bilan, il apparaît comme le produit du nombre d'actions par leur valeur nominale."
+    },
+    {
+      "index": 77,
+      "preview": "Droit préférentiel de souscription ↵ Le droit préférentiel de souscription est un droit de l'actionnaire lui permettant de",
+      "length": 242,
+      "metadata": {
+        "term": "Droit préférentiel de souscription",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Droit préférentiel de souscription\nLe droit préférentiel de souscription est un droit de l'actionnaire lui permettant de souscrire de nouvelles actions lors d'une augmentation de capital, proportionnellement au nombre d'actions qu'il détient."
+    },
+    {
+      "index": 78,
+      "preview": "Ex-coupon ↵ Expression s'appliquant à une valeur mobilière traitée sans le coupon annoncé. Le titulaire d'une valeur trait",
+      "length": 181,
+      "metadata": {
+        "term": "Ex-coupon",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Ex-coupon\nExpression s'appliquant à une valeur mobilière traitée sans le coupon annoncé. Le titulaire d'une valeur traitée ex-coupon ne peut pas jouir des droits attachés au coupon."
+    },
+    {
+      "index": 79,
+      "preview": "Etanchéité des émissions ↵ Le Dépositaire Central enregistre dans sa comptabilité l'intégralité des titres composant chaqu",
+      "length": 516,
+      "metadata": {
+        "term": "Etanchéité des émissions",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Etanchéité des émissions\nLe Dépositaire Central enregistre dans sa comptabilité l'intégralité des titres composant chaque émission de valeurs admises à ses opérations. La contrepartie de chaque émission de valeurs admise à ses opérations figure dans sa comptabilité au crédit des comptes courants ouverts à ses affiliés pour la valeur en question. Le solde créditeur de ces comptes courants doit, à tout moment, correspondre au total des titres inscrits en compte auprès des teneurs de comptes au nom des titulaires."
+    },
+    {
+      "index": 80,
+      "preview": "Emprunt obligataire ↵ Emprunt lancé par une entreprise, une banque, un Etat ou une organisation gouvernementale matérialis",
+      "length": 187,
+      "metadata": {
+        "term": "Emprunt obligataire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Emprunt obligataire\nEmprunt lancé par une entreprise, une banque, un Etat ou une organisation gouvernementale matérialisé sous forme d'obligations qui sont achetées par des investisseurs."
+    },
+    {
+      "index": 81,
+      "preview": "Emetteur ↵ Ce sont les personnes morales émettrices de valeurs mobilières, les personnes morales faisant appel public à l'",
+      "length": 128,
+      "metadata": {
+        "term": "Emetteur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Emetteur\nCe sont les personnes morales émettrices de valeurs mobilières, les personnes morales faisant appel public à l'épargne."
+    },
+    {
+      "index": 82,
+      "preview": "Ecritures d'admission ↵ Correspondent à la création au niveau de Maroclear des comptes \"Emission\" et \"Caisse nominative\" p",
+      "length": 201,
+      "metadata": {
+        "term": "Ecritures d'admission",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Ecritures d'admission\nCorrespondent à la création au niveau de Maroclear des comptes \"Emission\" et \"Caisse nominative\" plus leur mouvement au moment de la dématérialisation des titres d'une entreprise."
+    },
+    {
+      "index": 83,
+      "preview": "Fusion acquisition ↵ L'expression fusion-acquisition recouvre les différents aspects du rachat d'une entreprise par une au",
+      "length": 244,
+      "metadata": {
+        "term": "Fusion acquisition",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fusion acquisition\nL'expression fusion-acquisition recouvre les différents aspects du rachat d'une entreprise par une autre entreprise, dans les domaines de finance d'entreprise, de stratégie d'entreprise et de gestion d'opérations financières."
+    },
+    {
+      "index": 84,
+      "preview": "Fusion ↵ Opération par laquelle deux sociétés réunissent leurs actifs dans le but de constituer un ensemble plus profitabl",
+      "length": 212,
+      "metadata": {
+        "term": "Fusion",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fusion\nOpération par laquelle deux sociétés réunissent leurs actifs dans le but de constituer un ensemble plus profitable. Selon le type de fusion, il peut y avoir ou non création d'une entité juridique nouvelle."
+    },
+    {
+      "index": 85,
+      "preview": "Fractionnement d'actions ↵ Un fractionnement d'actions, ou division d'actions, est une opération augmentant le nombre d'ac",
+      "length": 214,
+      "metadata": {
+        "term": "Fractionnement d'actions",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fractionnement d'actions\nUn fractionnement d'actions, ou division d'actions, est une opération augmentant le nombre d'actions en circulation sur les marchés boursiers afin de diminuer le cours boursier de l'action."
+    },
+    {
+      "index": 86,
+      "preview": "Fonds commun de titrisation ↵ Le fonds commun de titrisation est le réceptacle des créances cédées par un établissement de",
+      "length": 268,
+      "metadata": {
+        "term": "Fonds commun de titrisation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fonds commun de titrisation\nLe fonds commun de titrisation est le réceptacle des créances cédées par un établissement de crédit qui procède à une opération de titrisation. En contrepartie, des parts que cet établissement peut placer auprès d'investisseurs sont émises."
+    },
+    {
+      "index": 87,
+      "preview": "Fond commun de placement (FCP) ↵ Les fonds communs de placement sont des copropriétés de valeurs mobilières. Le nombre de ",
+      "length": 255,
+      "metadata": {
+        "term": "Fond commun de placement (FCP)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fond commun de placement (FCP)\nLes fonds communs de placement sont des copropriétés de valeurs mobilières. Le nombre de parts s'accroît par souscription de nouvelles parts et diminue par les rachats effectués par le FCP à la demande des porteurs de parts."
+    },
+    {
+      "index": 88,
+      "preview": "Flux titres ↵ Désigne les mouvements de titres lors d'une transaction financière.",
+      "length": 79,
+      "metadata": {
+        "term": "Flux titres",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Flux titres\nDésigne les mouvements de titres lors d'une transaction financière."
+    },
+    {
+      "index": 89,
+      "preview": "Flux espèces ↵ Désigne les mouvements d'espèces lors d'une transaction financière.",
+      "length": 80,
+      "metadata": {
+        "term": "Flux espèces",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Flux espèces\nDésigne les mouvements d'espèces lors d'une transaction financière."
+    },
+    {
+      "index": 90,
+      "preview": "Flottant ↵ Fraction du capital d'une société détenue par le public.",
+      "length": 65,
+      "metadata": {
+        "term": "Flottant",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Flottant\nFraction du capital d'une société détenue par le public."
+    },
+    {
+      "index": 91,
+      "preview": "Fixing ↵ Négociation et cotation d'un titre financier à un cours d'équilibre. Ce type de cotation, qui s'oppose à la cotat",
+      "length": 218,
+      "metadata": {
+        "term": "Fixing",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Fixing\nNégociation et cotation d'un titre financier à un cours d'équilibre. Ce type de cotation, qui s'oppose à la cotation en continu, est adapté au traitement des petits ordres ou aux valeurs d'une liquidité moindre."
+    },
+    {
+      "index": 92,
+      "preview": "Filière temps réel ↵ Dans cette filière, les négociations sont appariées et dénouées le jour même de la transaction, sauf ",
+      "length": 257,
+      "metadata": {
+        "term": "Filière temps réel",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Filière temps réel\nDans cette filière, les négociations sont appariées et dénouées le jour même de la transaction, sauf si les parties à la négociation en décident autrement. Les instructions appariées génèrent des flux irrévocables de dénoués le jour-même."
+    },
+    {
+      "index": 93,
+      "preview": "Filière bourse ↵ Filière concernant les négociations de bourse dont le dénouement intervient en J3, à l'issue d'un process",
+      "length": 346,
+      "metadata": {
+        "term": "Filière bourse",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Filière bourse\nFilière concernant les négociations de bourse dont le dénouement intervient en J3, à l'issue d'un processus incorporé et automatisé d'ajustement(s) entre sociétés de bourse et dépositaires donneurs d'ordres. Les négociations de la filière bourse donnent lieu à deux types de flux complémentaires : les contrats et les avis d'opéré."
+    },
+    {
+      "index": 94,
+      "preview": "Gré à gré ↵ Ce sont les opérations qui se déroulent hors bourse. Ce sont des transactions fermes. Il n'y a pas d'intermédi",
+      "length": 191,
+      "metadata": {
+        "term": "Gré à gré",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Gré à gré\nCe sont les opérations qui se déroulent hors bourse. Ce sont des transactions fermes. Il n'y a pas d'intermédiaire et la négociation et le dénouement se font entre les dépositaires."
+    },
+    {
+      "index": 95,
+      "preview": "Gestion au nominatif pur ↵ Lorsque les inscriptions en compte sont réalisées exclusivement chez l'émetteur. Ce dernier se ",
+      "length": 184,
+      "metadata": {
+        "term": "Gestion au nominatif pur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Gestion au nominatif pur\nLorsque les inscriptions en compte sont réalisées exclusivement chez l'émetteur. Ce dernier se charge lui-même de la gestion de ses titres auprès de Maroclear."
+    },
+    {
+      "index": 96,
+      "preview": "Gestion au nominatif administré ↵ Lorsque les inscriptions en compte sont réalisées chez l'intermédiaire financier. Celui-",
+      "length": 180,
+      "metadata": {
+        "term": "Gestion au nominatif administré",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Gestion au nominatif administré\nLorsque les inscriptions en compte sont réalisées chez l'intermédiaire financier. Celui-ci se charge de la gestion des titres au nom de ses clients."
+    },
+    {
+      "index": 97,
+      "preview": "Horaire limite ↵ Désigne l'horaire limite fixé par Maroclear aux banques et sociétés de bourse pour faire intervenir les m",
+      "length": 270,
+      "metadata": {
+        "term": "Horaire limite",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Horaire limite\nDésigne l'horaire limite fixé par Maroclear aux banques et sociétés de bourse pour faire intervenir les mouvements consécutifs au nantissement des titres. Ces derniers doivent intervenir le jour même de la mise à disposition des fonds par Bank Al-Maghrib."
+    },
+    {
+      "index": 98,
+      "preview": "Habilitation ↵ Elle est délivrée par le Ministre chargé des finances, après approbation du Dépositaire Central d'une autor",
+      "length": 267,
+      "metadata": {
+        "term": "Habilitation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Habilitation\nElle est délivrée par le Ministre chargé des finances, après approbation du Dépositaire Central d'une autorisation d'exercer auprès de Maroclear le métier d'intermédiaire financier habilité afin de gérer les comptes titres pour le compte du grand public."
+    },
+    {
+      "index": 99,
+      "preview": "ISIN ↵ Numéro d'identification international attribué à chaque valeur. Le code ISIN est un code alphanumérique internation",
+      "length": 350,
+      "metadata": {
+        "term": "ISIN",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "ISIN\nNuméro d'identification international attribué à chaque valeur. Le code ISIN est un code alphanumérique international à douze caractères attribué à chaque valeur dont les deux premières lettres identifient le pays dans lequel la valeur a été émise (par exemple, MA pour le Maroc). C'est le code utilisé par Maroclear pour identifier les valeurs."
+    },
+    {
+      "index": 100,
+      "preview": "Investisseurs institutionnels ↵ Personnes morales qui placent régulièrement une partie des fonds collectés sur les marchés",
+      "length": 242,
+      "metadata": {
+        "term": "Investisseurs institutionnels",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Investisseurs institutionnels\nPersonnes morales qui placent régulièrement une partie des fonds collectés sur les marchés financiers. Il s'agit notamment des compagnies d'assurance, caisses de retraite, fonds communs de placement et de la CDG."
+    },
+    {
+      "index": 101,
+      "preview": "Intermédiaire financier habilité ↵ Généralement une banque ou une société de bourse. L'intermédiaire financier habilité ti",
+      "length": 257,
+      "metadata": {
+        "term": "Intermédiaire financier habilité",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Intermédiaire financier habilité\nGénéralement une banque ou une société de bourse. L'intermédiaire financier habilité tient des comptes titres au nom de leurs propriétaires. Il est habilité par arrêté du Ministre chargé des finances après avis de Maroclear."
+    },
+    {
+      "index": 102,
+      "preview": "Intermédiaire administrateur ↵ Il assume la responsabilité de l'identité et de la capacité juridique du donneur d'ordres a",
+      "length": 218,
+      "metadata": {
+        "term": "Intermédiaire administrateur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Intermédiaire administrateur\nIl assume la responsabilité de l'identité et de la capacité juridique du donneur d'ordres ainsi que de la régularité de l'opération, aux / en lieux et place de la personne morale émettrice."
+    },
+    {
+      "index": 103,
+      "preview": "Intérêt ↵ Revenu tiré d'un placement en titres de créance. Les intérêts sont payés selon une périodicité régulière fixée à",
+      "length": 211,
+      "metadata": {
+        "term": "Intérêt",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Intérêt\nRevenu tiré d'un placement en titres de créance. Les intérêts sont payés selon une périodicité régulière fixée à l'avance et sont connus au moment de l'émission. Les taux peuvent être fixes ou variables."
+    },
+    {
+      "index": 104,
+      "preview": "Instrument financier ↵ Les instruments financiers sont des titres ou contrats, dont certains sont négociables, notamment s",
+      "length": 235,
+      "metadata": {
+        "term": "Instrument financier",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Instrument financier\nLes instruments financiers sont des titres ou contrats, dont certains sont négociables, notamment sur des bourses, certains exclusivement utilisés pour anticiper une rentabilité ou un risque financier ou monétaire."
+    },
+    {
+      "index": 105,
+      "preview": "Inscription en compte ↵ Se dit de l'enregistrement effectif des titres, dématérialisés, au nom de leur propriétaire auprès",
+      "length": 220,
+      "metadata": {
+        "term": "Inscription en compte",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Inscription en compte\nSe dit de l'enregistrement effectif des titres, dématérialisés, au nom de leur propriétaire auprès de l'émetteur ou de l'intermédiaire financier au moment de l'admission aux opérations de Maroclear."
+    },
+    {
+      "index": 106,
+      "preview": "Indice boursier ↵ Moyenne des cours d'un échantillon de titres représentatifs d'un marché, d'un secteur… Cette moyenne ren",
+      "length": 290,
+      "metadata": {
+        "term": "Indice boursier",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Indice boursier\nMoyenne des cours d'un échantillon de titres représentatifs d'un marché, d'un secteur… Cette moyenne rend compte de la tendance générale de l'évolution du marché. Chaque pays dispose de ses propres indices nationaux. Les indices boursiers marocains sont le MASI et le MADEX."
+    },
+    {
+      "index": 107,
+      "preview": "Journal général des opérations par valeur ↵ Tenu par chaque teneur de comptes, il est servi chronologiquement de toutes le",
+      "length": 269,
+      "metadata": {
+        "term": "Journal général des opérations par valeur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Journal général des opérations par valeur\nTenu par chaque teneur de comptes, il est servi chronologiquement de toutes les écritures affectant ses comptes-titres et ceux des titulaires inscrits chez lui. Il est référencé par la désignation du ou des comptes mouvementés."
+    },
+    {
+      "index": 108,
+      "preview": "Loi n° 35-96 ↵ Loi promulguée par le Dahir n° 1-96-246 (29 chaabane 1417) relative à la création d'un Dépositaire Central ",
+      "length": 207,
+      "metadata": {
+        "term": "Loi n° 35-96",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Loi n° 35-96\nLoi promulguée par le Dahir n° 1-96-246 (29 chaabane 1417) relative à la création d'un Dépositaire Central et à l'institution d'un régime général de l'inscription en compte de certaines valeurs."
+    },
+    {
+      "index": 109,
+      "preview": "Liquidité ↵ Qualité d'un marché, ou d'un titre, sur lequel les transactions s'effectuent de façon fluide, sans forte varia",
+      "length": 180,
+      "metadata": {
+        "term": "Liquidité",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Liquidité\nQualité d'un marché, ou d'un titre, sur lequel les transactions s'effectuent de façon fluide, sans forte variation le cours, en raison de l'abondance des titres négociés."
+    },
+    {
+      "index": 110,
+      "preview": "Moins-value ↵ Perte résultant de la différence entre le prix de vente d'un titre et son prix d'achat ou de souscription.",
+      "length": 118,
+      "metadata": {
+        "term": "Moins-value",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Moins-value\nPerte résultant de la différence entre le prix de vente d'un titre et son prix d'achat ou de souscription."
+    },
+    {
+      "index": 111,
+      "preview": "Message de règlement ↵ Messages envoyés par Maroclear à Bank Al-Maghrib pour recevoir en retour les positions nettes achet",
+      "length": 158,
+      "metadata": {
+        "term": "Message de règlement",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Message de règlement\nMessages envoyés par Maroclear à Bank Al-Maghrib pour recevoir en retour les positions nettes acheteuses afin de dénouer une transaction."
+    },
+    {
+      "index": 112,
+      "preview": "Maturité ↵ La maturité ou maturité résiduelle désigne le temps qui sépare la date à laquelle une obligation est émise et l",
+      "length": 192,
+      "metadata": {
+        "term": "Maturité",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Maturité\nLa maturité ou maturité résiduelle désigne le temps qui sépare la date à laquelle une obligation est émise et la date à laquelle la valeur nominale de cette obligation est remboursée."
+    },
+    {
+      "index": 113,
+      "preview": "MASI ↵ Indice de la Bourse de Casablanca regroupant l'ensemble des actions cotées. C'est un indice calculé sur la base de ",
+      "length": 187,
+      "metadata": {
+        "term": "MASI",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "MASI\nIndice de la Bourse de Casablanca regroupant l'ensemble des actions cotées. C'est un indice calculé sur la base de la capitalisation flottante et ayant pour base 1.000 au 31/12/1991."
+    },
+    {
+      "index": 114,
+      "preview": "Marché secondaire ↵ Le marché secondaire est celui sur lequel sont échangés des titres financiers déjà créés (sur le march",
+      "length": 306,
+      "metadata": {
+        "term": "Marché secondaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché secondaire\nLe marché secondaire est celui sur lequel sont échangés des titres financiers déjà créés (sur le marché primaire) entre investisseurs. En assurant la liquidité des investissements financiers, le marché secondaire assure la qualité du marché primaire et l'évaluation des titres financiers."
+    },
+    {
+      "index": 115,
+      "preview": "Marché primaire ↵ Le marché primaire est celui sur lequel les nouveaux titres financiers sont émis et souscrits par des in",
+      "length": 343,
+      "metadata": {
+        "term": "Marché primaire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché primaire\nLe marché primaire est celui sur lequel les nouveaux titres financiers sont émis et souscrits par des investisseurs ; on y procède donc aux augmentations de capital, au placement d'emprunts obligataires… Il s'agit d'un marché du neuf des titres financiers, par opposition au marché secondaire qui en est le marché \"d'occasion\"."
+    },
+    {
+      "index": 116,
+      "preview": "Marché financier ↵ Le marché financier, comme tout marché, est un lieu d'échange entre acheteurs et vendeurs. Comme dans n",
+      "length": 290,
+      "metadata": {
+        "term": "Marché financier",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché financier\nLe marché financier, comme tout marché, est un lieu d'échange entre acheteurs et vendeurs. Comme dans n'importe quel marché, les prix de vente et d'achat sont déterminés par le niveau de l'offre et de la demande. Cet échange concerne des produits ou instruments financiers."
+    },
+    {
+      "index": 117,
+      "preview": "Marché dérivé ↵ Les marchés dérivés sont des marchés sur/dans les marchés. Ils permettent de gérer les risques associés au",
+      "length": 166,
+      "metadata": {
+        "term": "Marché dérivé",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché dérivé\nLes marchés dérivés sont des marchés sur/dans les marchés. Ils permettent de gérer les risques associés aux fluctuations de cours, de taux ou de change."
+    },
+    {
+      "index": 118,
+      "preview": "Marché de développement ↵ Appellation commerciale pour désigner le second compartiment de la bourse.",
+      "length": 98,
+      "metadata": {
+        "term": "Marché de développement",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché de développement\nAppellation commerciale pour désigner le second compartiment de la bourse."
+    },
+    {
+      "index": 119,
+      "preview": "Marché central ↵ Le marché central est géré par la Bourse de Casablanca, il permet la confrontation électronique de l'offr",
+      "length": 139,
+      "metadata": {
+        "term": "Marché central",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Marché central\nLe marché central est géré par la Bourse de Casablanca, il permet la confrontation électronique de l'offre et de la demande."
+    },
+    {
+      "index": 120,
+      "preview": "Mandataire ↵ Personne morale émettrice désignée par le mandant pour la gestion de ses comptes titres auprès de Maroclear e",
+      "length": 158,
+      "metadata": {
+        "term": "Mandataire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Mandataire\nPersonne morale émettrice désignée par le mandant pour la gestion de ses comptes titres auprès de Maroclear et liée à lui par le contrat de mandat."
+    },
+    {
+      "index": 121,
+      "preview": "Mandat de gestion ↵ Contrat par lequel une personne morale délègue à un intermédiaire financier habilité l'initiative de l",
+      "length": 344,
+      "metadata": {
+        "term": "Mandat de gestion",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Mandat de gestion\nContrat par lequel une personne morale délègue à un intermédiaire financier habilité l'initiative de la gestion de ses valeurs mobilières. Le mandat précise l'orientation de la gestion (prudente, audacieuse…), le niveau de l'information du titulaire du compte, le montant et la structure de la rémunération de l'intermédiaire."
+    },
+    {
+      "index": 122,
+      "preview": "Mandant ↵ Désigne la personne morale qui délègue la gestion de ses comptes titres à l'intermédiaire financier de son choix",
+      "length": 121,
+      "metadata": {
+        "term": "Mandant",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Mandant\nDésigne la personne morale qui délègue la gestion de ses comptes titres à l'intermédiaire financier de son choix."
+    },
+    {
+      "index": 123,
+      "preview": "MADEX ↵ Indice sélectif de la Bourse de Casablanca regroupant les valeurs cotées en continu. C'est un indice calculé sur l",
+      "length": 192,
+      "metadata": {
+        "term": "MADEX",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "MADEX\nIndice sélectif de la Bourse de Casablanca regroupant les valeurs cotées en continu. C'est un indice calculé sur la base de la capitalisation flottante et ayant base 1.000 au 31/12/1991."
+    },
+    {
+      "index": 124,
+      "preview": "Numéraire ↵ Toute monnaie en espèces ayant cours légal et qui présente une valeur pécuniaire.",
+      "length": 91,
+      "metadata": {
+        "term": "Numéraire",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Numéraire\nToute monnaie en espèces ayant cours légal et qui présente une valeur pécuniaire."
+    },
+    {
+      "index": 125,
+      "preview": "Nominatif pur ↵ Valeur inscrite en compte, titres nominatif dont l'administration a été confiée à l'émetteur.",
+      "length": 107,
+      "metadata": {
+        "term": "Nominatif pur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Nominatif pur\nValeur inscrite en compte, titres nominatif dont l'administration a été confiée à l'émetteur."
+    },
+    {
+      "index": 126,
+      "preview": "Nominatif administré ↵ Valeur inscrite en compte, titre nominatif dont l'administration a été confiée à un intermédiaire f",
+      "length": 138,
+      "metadata": {
+        "term": "Nominatif administré",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Nominatif administré\nValeur inscrite en compte, titre nominatif dont l'administration a été confiée à un intermédiaire financier habilité."
+    },
+    {
+      "index": 127,
+      "preview": "Négociateurs ↵ Ce sont des intermédiaires financiers membres de la Bourse de Casablanca. Ils exécutent les ordres reçus de",
+      "length": 206,
+      "metadata": {
+        "term": "Négociateurs",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Négociateurs\nCe sont des intermédiaires financiers membres de la Bourse de Casablanca. Ils exécutent les ordres reçus de leurs clients, des établissements collecteurs d'ordres ou des transmetteurs d'ordres."
+    },
+    {
+      "index": 128,
+      "preview": "OST sur stock ↵ La plus courante. Les opérations sur titre (OST) sur stock interviennent à l'occasion de chaque opération ",
+      "length": 402,
+      "metadata": {
+        "term": "OST sur stock",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "OST sur stock\nLa plus courante. Les opérations sur titre (OST) sur stock interviennent à l'occasion de chaque opération sur titre ayant un rapport avec l'échange de titres et donc affectant la comptabilité titres. Maroclear notifie ses affiliés des détails de l'opération et les crédite, en titres, en coupons ou en droits selon chaque cas et ce, sur la base de leurs soldes à la veille de l'opération."
+    },
+    {
+      "index": 129,
+      "preview": "OST sur flux ↵ Les opérations sur titre (OST) dites de régularisation sont nécessaires lorsque des OST surviennent entre l",
+      "length": 185,
+      "metadata": {
+        "term": "OST sur flux",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "OST sur flux\nLes opérations sur titre (OST) dites de régularisation sont nécessaires lorsque des OST surviennent entre la date de négociation et la date de dénouement d'une transaction."
+    },
+    {
+      "index": 130,
+      "preview": "Organisme de placement en capital risque (OPCR) ↵ Un OPCR est un fonds d'investissement, ayant pour objet le financement d",
+      "length": 344,
+      "metadata": {
+        "term": "Organisme de placement en capital risque (OPCR)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Organisme de placement en capital risque (OPCR)\nUn OPCR est un fonds d'investissement, ayant pour objet le financement de PME, principalement marocaines et non cotées, à travers l'acquisition de titres de capital, l'acquisition de titres de créances (convertibles ou non en titres de capital) et l'octroi d'avances en compte courant d'associés."
+    },
+    {
+      "index": 131,
+      "preview": "Organisme de placement collectif en valeurs mobilières (OPCVM) ↵ Le terme OPCVM recouvre les SICAV et les FCP. Dans les de",
+      "length": 192,
+      "metadata": {
+        "term": "Organisme de placement collectif en valeurs mobilières (OPCVM)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Organisme de placement collectif en valeurs mobilières (OPCVM)\nLe terme OPCVM recouvre les SICAV et les FCP. Dans les deux cas, l'épargnant détient une part des valeurs gérées par l'organisme."
+    },
+    {
+      "index": 132,
+      "preview": "Ordre de bourse ↵ Pour exécuter une transaction en bourse, tout client doit communiquer à son intermédiaire en bourse un «",
+      "length": 284,
+      "metadata": {
+        "term": "Ordre de bourse",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Ordre de bourse\nPour exécuter une transaction en bourse, tout client doit communiquer à son intermédiaire en bourse un «ordre de bourse» comportant le sens de l'ordre, achat ou vente, le nombre et la dénomination des titres à négocier, une limite de validité et une condition de prix."
+    },
+    {
+      "index": 133,
+      "preview": "Opération sur titres (OST) ↵ Une opération sur titre est une opération prise par l'initiative d'une entreprise cotée en bo",
+      "length": 317,
+      "metadata": {
+        "term": "Opération sur titres (OST)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Opération sur titres (OST)\nUne opération sur titre est une opération prise par l'initiative d'une entreprise cotée en bourse ou non cotée en bourse et qui affecte les titres (actions, obligations) qu'elle a émis. Par définition, toutes les OST sont appliquées directement sur les comptes titres des affiliés (stocks)."
+    },
+    {
+      "index": 134,
+      "preview": "Offre publique de retrait ↵ Une offre publique de retrait est une technique qui a pour objectif la suppression d'un titre ",
+      "length": 273,
+      "metadata": {
+        "term": "Offre publique de retrait",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Offre publique de retrait\nUne offre publique de retrait est une technique qui a pour objectif la suppression d'un titre du marché boursier. Ce mécanisme s'applique à l'ensemble des valeurs faisant l'objet d'une cotation sur les différents compartiments du marché financier."
+    },
+    {
+      "index": 135,
+      "preview": "Offre à prix minimum ↵ Procédure d'introduction en bourse en fixant la quantité, le prix dépendant de la demande et des ex",
+      "length": 139,
+      "metadata": {
+        "term": "Offre à prix minimum",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Offre à prix minimum\nProcédure d'introduction en bourse en fixant la quantité, le prix dépendant de la demande et des exigences du vendeur."
+    },
+    {
+      "index": 136,
+      "preview": "Offre à prix fixe ↵ Procédure d'introduction en bourse en fixant la quantité et le prix unique des titres à vendre.",
+      "length": 113,
+      "metadata": {
+        "term": "Offre à prix fixe",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Offre à prix fixe\nProcédure d'introduction en bourse en fixant la quantité et le prix unique des titres à vendre."
+    },
+    {
+      "index": 137,
+      "preview": "Obligations remboursables en action ↵ Ce sont des obligations qui, à leur échéance, seront obligatoirement remboursées par",
+      "length": 208,
+      "metadata": {
+        "term": "Obligations remboursables en action",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Obligations remboursables en action\nCe sont des obligations qui, à leur échéance, seront obligatoirement remboursées par l'attribution d'actions de la société émettrice, selon une parité définie à l'émission."
+    },
+    {
+      "index": 138,
+      "preview": "Obligation ↵ Une obligation est un titre de dette à long terme. L'obligation peut être émise par un Etat, une collectivité",
+      "length": 146,
+      "metadata": {
+        "term": "Obligation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Obligation\nUne obligation est un titre de dette à long terme. L'obligation peut être émise par un Etat, une collectivité locale ou une entreprise."
+    },
+    {
+      "index": 139,
+      "preview": "Post-négociation ↵ Dénouement et gestion administrative des opérations négociées sur les marchés financiers (confirmation,",
+      "length": 144,
+      "metadata": {
+        "term": "Post-négociation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Post-négociation\nDénouement et gestion administrative des opérations négociées sur les marchés financiers (confirmation, règlement, livraison…)."
+    },
+    {
+      "index": 140,
+      "preview": "Position nette acheteuse (PONA) ↵ Constituées par des virements de fonds sur des comptes spécifiques tenus par Bank Al-Mag",
+      "length": 367,
+      "metadata": {
+        "term": "Position nette acheteuse (PONA)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Position nette acheteuse (PONA)\nConstituées par des virements de fonds sur des comptes spécifiques tenus par Bank Al-Maghrib, les PONA sont exclusivement dédiées au dénouement des opérations traitées via Maroclear. Elles sont communiquées par Bank Al-Maghrib à Maroclear qui vérifie si les émetteurs ont suffisamment de provisions espèces pour dénouer les opérations."
+    },
+    {
+      "index": 141,
+      "preview": "Position ↵ La position à un instant donné, correspond à la valorisation des titres achetés ou bien des titres vendus. Si l",
+      "length": 384,
+      "metadata": {
+        "term": "Position",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Position\nLa position à un instant donné, correspond à la valorisation des titres achetés ou bien des titres vendus. Si la valorisation des titres à l'achat est supérieure à la valorisation des titres à la vente, on parle de position «acheteur», inversement si la valorisation des titres à l'achat est inférieure à la valorisation des titres à la vente, on parle de position «vendeur»."
+    },
+    {
+      "index": 142,
+      "preview": "Plus-value ↵ Bénéfice résultant de différence entre le prix de vente d'un titre et son prix d'achat ou de souscription.",
+      "length": 117,
+      "metadata": {
+        "term": "Plus-value",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Plus-value\nBénéfice résultant de différence entre le prix de vente d'un titre et son prix d'achat ou de souscription."
+    },
+    {
+      "index": 143,
+      "preview": "Personne morale émettrice ↵ Se dit de toute personne morale émettrice de valeurs.",
+      "length": 79,
+      "metadata": {
+        "term": "Personne morale émettrice",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Personne morale émettrice\nSe dit de toute personne morale émettrice de valeurs."
+    },
+    {
+      "index": 144,
+      "preview": "REPO ↵ Les opérations de REPO correspondent à une pension livrée par contrat. Deux parties se mettent d'accord pour une ve",
+      "length": 214,
+      "metadata": {
+        "term": "REPO",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "REPO\nLes opérations de REPO correspondent à une pension livrée par contrat. Deux parties se mettent d'accord pour une vente ferme avec un engagement de rachat à terme à une date déterminée stipulée dans le contrat."
+    },
+    {
+      "index": 145,
+      "preview": "Rendement ↵ On distingue deux rendements : le rendement net qui est le rapport du dividende net sur le cours de l'action e",
+      "length": 227,
+      "metadata": {
+        "term": "Rendement",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Rendement\nOn distingue deux rendements : le rendement net qui est le rapport du dividende net sur le cours de l'action et le rendement brut qui est le rapport du dividende global (avoir fiscal compris) sur le cours de l'action."
+    },
+    {
+      "index": 146,
+      "preview": "Relevé comptable ↵ Les principaux relevés comptables transmis par Maroclear à ses affiliés sont : le relevé quotidien des ",
+      "length": 393,
+      "metadata": {
+        "term": "Relevé comptable",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Relevé comptable\nLes principaux relevés comptables transmis par Maroclear à ses affiliés sont : le relevé quotidien des mouvements et soldes qui ne comprend que les comptes ayant été mouvementés dans la journée comptable considérée ; le relevé trimestriel des soldes qui récapitule l'ensemble des comptes de titres et de droit des affiliés à l'issue de la dernière journée de chaque trimestre."
+    },
+    {
+      "index": 147,
+      "preview": "Regroupement d'actions ↵ Opération sur titre qui consiste à élever la valeur nominale des actions en divisant dans les mêm",
+      "length": 357,
+      "metadata": {
+        "term": "Regroupement d'actions",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Regroupement d'actions\nOpération sur titre qui consiste à élever la valeur nominale des actions en divisant dans les mêmes proportions le nombre d'actions. Un actionnaire qui détient 200 actions de nominal 50 obtient 100 actions de nominal 100 en cas d'un regroupement par 2. Le regroupement d'actions entraîne un ajustement du cours de la valeur en bourse."
+    },
+    {
+      "index": 148,
+      "preview": "Règlement général de Maroclear ↵ Recueil des dispositions légales relatives aux principes de fonctionnement de Maroclear e",
+      "length": 288,
+      "metadata": {
+        "term": "Règlement général de Maroclear",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Règlement général de Maroclear\nRecueil des dispositions légales relatives aux principes de fonctionnement de Maroclear et les obligations de ses affiliés, à l'inscription en compte, aux conditions d'exercice de la fonction de teneur de compte ainsi que certaines dispositions financières."
+    },
+    {
+      "index": 149,
+      "preview": "Règlement contre livraison ↵ Principe du dénouement des opérations à Maroclear qui veut que le règlement espèces intervien",
+      "length": 163,
+      "metadata": {
+        "term": "Règlement contre livraison",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Règlement contre livraison\nPrincipe du dénouement des opérations à Maroclear qui veut que le règlement espèces intervienne concomitamment à la livraison de titres."
+    },
+    {
+      "index": 150,
+      "preview": "Régime général de l'inscription en compte ↵ Régime qui soumet tous les affiliés aux opérations du Dépositaire Central au m",
+      "length": 297,
+      "metadata": {
+        "term": "Régime général de l'inscription en compte",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Régime général de l'inscription en compte\nRégime qui soumet tous les affiliés aux opérations du Dépositaire Central au moment de leur inscription en compte chez Maroclear, tel que mentionné par le règlement général de l'inscription en compte et approuvé par arrêté du Ministre chargé des finances."
+    },
+    {
+      "index": 151,
+      "preview": "Radiation ↵ Retrait de la cote d'une valeur mobilière.",
+      "length": 52,
+      "metadata": {
+        "term": "Radiation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Radiation\nRetrait de la cote d'une valeur mobilière."
+    },
+    {
+      "index": 152,
+      "preview": "Rachat d'actions ↵ Technique qui permet à une société d'acheter ses propres actions en bourse afin de régulariser son cour",
+      "length": 452,
+      "metadata": {
+        "term": "Rachat d'actions",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Rachat d'actions\nTechnique qui permet à une société d'acheter ses propres actions en bourse afin de régulariser son cours. Cette action est encadrée par des dispositions légales et réglementaires. Elles imposent à la société de définir et de publier les caractéristiques de son programme d'achat (période, conditions de course…) et d'obtenir, préalablement, l'accord du CDVM à travers le visa d'une notice d'information produite et publiée à cet effet."
+    },
+    {
+      "index": 153,
+      "preview": "Système des règlements bruts du Maroc ↵ Infrastructure de paiement qui permet des transferts sécurisés et efficients entre",
+      "length": 311,
+      "metadata": {
+        "term": "Système des règlements bruts du Maroc",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Système des règlements bruts du Maroc\nInfrastructure de paiement qui permet des transferts sécurisés et efficients entre les institutions financières participantes et contribue à faciliter l'exécution de la politique monétaire grâce à une surveillance permanente des flux et de la liquidité par Bank Al-Maghrib."
+    },
+    {
+      "index": 154,
+      "preview": "Système de management de la sécurité de l'information (SMSI) ↵ Appartenant à la famille des normes ISO 27000 aidant les or",
+      "length": 408,
+      "metadata": {
+        "term": "Système de management de la sécurité de l'information (SMSI)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Système de management de la sécurité de l'information (SMSI)\nAppartenant à la famille des normes ISO 27000 aidant les organisations à assurer la sécurité de leurs informations, le SMSI désigne l'approche systémique par laquelle Maroclear veille à la sécurité des informations sensibles. Construit selon un processus de management du risque, un SMSI englobe les personnes, les processus et les systèmes de SI."
+    },
+    {
+      "index": 155,
+      "preview": "Split ↵ Evénement qui se produit lorsqu'une entreprise cotée modifie le nombre de titres composant son capital social.",
+      "length": 116,
+      "metadata": {
+        "term": "Split",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Split\nEvénement qui se produit lorsqu'une entreprise cotée modifie le nombre de titres composant son capital social."
+    },
+    {
+      "index": 156,
+      "preview": "Souscription ↵ Action d'acheter des actions lors d'une augmentation de capital ou d'une offre publique de vente.",
+      "length": 110,
+      "metadata": {
+        "term": "Souscription",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Souscription\nAction d'acheter des actions lors d'une augmentation de capital ou d'une offre publique de vente."
+    },
+    {
+      "index": 157,
+      "preview": "Société gestionnaire de la bourse des valeurs ↵ Société anonyme chargée de la gestion de la bourse des valeurs de Casablan",
+      "length": 278,
+      "metadata": {
+        "term": "Société gestionnaire de la bourse des valeurs",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Société gestionnaire de la bourse des valeurs\nSociété anonyme chargée de la gestion de la bourse des valeurs de Casablanca. Son capital est souscrit intégralement par les sociétés de bourse agréées, il est détenu constamment à parts égales par l'ensemble des sociétés de bourse."
+    },
+    {
+      "index": 158,
+      "preview": "Société de gestion d'OPCVM ↵ Une société de gestion d'OPCVM est une société qui assure la gestion d'organismes de placemen",
+      "length": 366,
+      "metadata": {
+        "term": "Société de gestion d'OPCVM",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Société de gestion d'OPCVM\nUne société de gestion d'OPCVM est une société qui assure la gestion d'organismes de placement collectif, tels que les FCP ou les SICAV. Elle intègre la gestion de portefeuille, la commercialisation des fonds communs de placement ainsi que des fonctions administratives telles que les services juridiques ou la gestion comptable des fonds."
+    },
+    {
+      "index": 159,
+      "preview": "Société de bourse ↵ Société réalisant le courtage des opérations de bourse pour le compte de ses clients (particuliers, en",
+      "length": 186,
+      "metadata": {
+        "term": "Société de bourse",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Société de bourse\nSociété réalisant le courtage des opérations de bourse pour le compte de ses clients (particuliers, entreprises…) ou pour leur propre compte sur les marchés financiers."
+    },
+    {
+      "index": 160,
+      "preview": "Société d'investissement à capital variable ↵ Société disposant d'une personnalité morale distincte ayant pour seul objet ",
+      "length": 343,
+      "metadata": {
+        "term": "Société d'investissement à capital variable",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Société d'investissement à capital variable\nSociété disposant d'une personnalité morale distincte ayant pour seul objet de gérer un portefeuille de titres pour le compte de ses actionnaires qui peuvent souscrire des parts ou se faire rembourser les parts qu'ils ont souscrites, chaque jour en fonction de la valeur liquidative du portefeuille."
+    },
+    {
+      "index": 161,
+      "preview": "Siège social ↵ Le siège social d'une entreprise ou d'une personne morale est un lieu, précisé dans les statuts, par un act",
+      "length": 263,
+      "metadata": {
+        "term": "Siège social",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Siège social\nLe siège social d'une entreprise ou d'une personne morale est un lieu, précisé dans les statuts, par un acte séparé, ou dans des registres ad hoc, qui constitue son domicile. Il détermine ainsi son domicile juridique et en conséquence sa nationalité."
+    },
+    {
+      "index": 162,
+      "preview": "Ségrégation des avoirs ↵ Pour chaque valeur, les intermédiaires financiers habilités doivent obligatoirement ouvrir des co",
+      "length": 203,
+      "metadata": {
+        "term": "Ségrégation des avoirs",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Ségrégation des avoirs\nPour chaque valeur, les intermédiaires financiers habilités doivent obligatoirement ouvrir des comptes courants distincts pour leurs avoirs propres et les avoirs de leur clientèle."
+    },
+    {
+      "index": 163,
+      "preview": "Séance de bourse ↵ La séance de bourse comprend : une phase d'accumulation d'ordres sans transaction possible ; un fixing ",
+      "length": 316,
+      "metadata": {
+        "term": "Séance de bourse",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Séance de bourse\nLa séance de bourse comprend : une phase d'accumulation d'ordres sans transaction possible ; un fixing d'ouverture de la séance ; le retour à la phase d'accumulation pour les valeurs les moins liquides ; la cotation en continu pour les valeurs les plus liquides ; une clôture de la séance de bourse."
+    },
+    {
+      "index": 164,
+      "preview": "Transfert franco ↵ Le transfert franco est le transfert de titres d'un compte à l'autre sans mouvement d'espèces.",
+      "length": 111,
+      "metadata": {
+        "term": "Transfert franco",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Transfert franco\nLe transfert franco est le transfert de titres d'un compte à l'autre sans mouvement d'espèces."
+    },
+    {
+      "index": 165,
+      "preview": "Transfert de portefeuille ↵ Les titres préalablement inscrits parmi les titres de transaction dont le transfert est interv",
+      "length": 261,
+      "metadata": {
+        "term": "Transfert de portefeuille",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Transfert de portefeuille\nLes titres préalablement inscrits parmi les titres de transaction dont le transfert est intervenu soit parce que la durée de détention est devenue supérieure à trois mois, soit que les intentions de l'établissement bancaire ont changé."
+    },
+    {
+      "index": 166,
+      "preview": "Transfert ↵ Les opérations de transfert permettent à deux affiliés de procéder, par accord bilatéral, au transfert de titr",
+      "length": 209,
+      "metadata": {
+        "term": "Transfert",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Transfert\nLes opérations de transfert permettent à deux affiliés de procéder, par accord bilatéral, au transfert de titres d'un compte à l'autre que ce soit chez Maroclear ou vers un autre Dépositaire Central."
+    },
+    {
+      "index": 167,
+      "preview": "Transaction ↵ Une transaction est le résultat de la confrontation et de l'exécution d'un ordre d'achat ou de vente avec de",
+      "length": 338,
+      "metadata": {
+        "term": "Transaction",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Transaction\nUne transaction est le résultat de la confrontation et de l'exécution d'un ordre d'achat ou de vente avec des ordres de sens contraire compatibles. Un seul ordre peut donner lieu à plusieurs transactions dans le cas d'une exécution fractionnée. Les transactions caractérisent l'activité d'un marché sur une période considérée."
+    },
+    {
+      "index": 168,
+      "preview": "Titulaire de compte courant ↵ S'entend des intermédiaires financiers habilités et des personnes morales émettrices de vale",
+      "length": 124,
+      "metadata": {
+        "term": "Titulaire de compte courant",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titulaire de compte courant\nS'entend des intermédiaires financiers habilités et des personnes morales émettrices de valeurs."
+    },
+    {
+      "index": 169,
+      "preview": "Titrisation ↵ Montage financier qui permet à une société d'améliorer la liquidité de son bilan, en sélectionnant des actif",
+      "length": 311,
+      "metadata": {
+        "term": "Titrisation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titrisation\nMontage financier qui permet à une société d'améliorer la liquidité de son bilan, en sélectionnant des actifs en fonction de la qualité de leurs garanties qui seront regroupés dans une société ad hoc avec laquelle elle va opérer l'échange des créances contre des titres de fonds communs de créances."
+    },
+    {
+      "index": 170,
+      "preview": "Titre nominatif ↵ Les actionnaires détenant ces titres nominatifs sont directement inscrits dans les comptes tenus par la ",
+      "length": 128,
+      "metadata": {
+        "term": "Titre nominatif",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titre nominatif\nLes actionnaires détenant ces titres nominatifs sont directement inscrits dans les comptes tenus par la société."
+    },
+    {
+      "index": 171,
+      "preview": "Titre financier ↵ Un titre financier se caractérise par une série de flux futurs de trésorerie qui sont plus ou moins risq",
+      "length": 370,
+      "metadata": {
+        "term": "Titre financier",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titre financier\nUn titre financier se caractérise par une série de flux futurs de trésorerie qui sont plus ou moins risqués. On distingue les titres représentatifs de capitaux propres (les actions), les titres représentatifs de l'endettement (obligations, billets de trésorerie, certificats de dépôt, bons du Trésor…) et les titres optionnels ou conditionnels (options)."
+    },
+    {
+      "index": 172,
+      "preview": "Titre de créance négociable (TCN) ↵ Sont considérés comme des TCN : les bons du Trésor, les certificats de dépôts négociab",
+      "length": 205,
+      "metadata": {
+        "term": "Titre de créance négociable (TCN)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titre de créance négociable (TCN)\nSont considérés comme des TCN : les bons du Trésor, les certificats de dépôts négociables, les billets de trésorerie et les bons des institutions financières spécialisées."
+    },
+    {
+      "index": 173,
+      "preview": "Titre au porteur ↵ Les titres au porteur sont inscrits dans les comptes tenus par un intermédiaire financier. Leurs posses",
+      "length": 225,
+      "metadata": {
+        "term": "Titre au porteur",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titre au porteur\nLes titres au porteur sont inscrits dans les comptes tenus par un intermédiaire financier. Leurs possesseurs ne sont pas connus de la société. Une large majorité des titres circulant au Maroc sont au porteur."
+    },
+    {
+      "index": 174,
+      "preview": "Titre ↵ Terme désignant une valeur, une action ou toute autre valeur mobilière.",
+      "length": 77,
+      "metadata": {
+        "term": "Titre",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Titre\nTerme désignant une valeur, une action ou toute autre valeur mobilière."
+    },
+    {
+      "index": 175,
+      "preview": "Teneur de compte ↵ Possesseur de compte courant chez Maroclear étant habilité à la tenue des comptes de sa clientèle auprè",
+      "length": 184,
+      "metadata": {
+        "term": "Teneur de compte",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Teneur de compte\nPossesseur de compte courant chez Maroclear étant habilité à la tenue des comptes de sa clientèle auprès de Maroclear. Il s'agit des banques et des sociétés de bourse."
+    },
+    {
+      "index": 176,
+      "preview": "TCS BaNCS ↵ TCS BaNCS Market Infrastructure est la plateforme électronique par laquelle passe obligatoirement le dénouemen",
+      "length": 152,
+      "metadata": {
+        "term": "TCS BaNCS",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "TCS BaNCS\nTCS BaNCS Market Infrastructure est la plateforme électronique par laquelle passe obligatoirement le dénouement des opérations chez Maroclear."
+    },
+    {
+      "index": 177,
+      "preview": "Volume des transactions ↵ Nombre de titres échangés multiplié par leurs cours.",
+      "length": 76,
+      "metadata": {
+        "term": "Volume des transactions",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Volume des transactions\nNombre de titres échangés multiplié par leurs cours."
+    },
+    {
+      "index": 178,
+      "preview": "Ventilation ↵ Lorsque plusieurs valeurs sont vendues pour un prix unique, la ventilation correspond à déterminer pour chac",
+      "length": 157,
+      "metadata": {
+        "term": "Ventilation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Ventilation\nLorsque plusieurs valeurs sont vendues pour un prix unique, la ventilation correspond à déterminer pour chacun de ces biens, leur prix respectif."
+    },
+    {
+      "index": 179,
+      "preview": "Valorisation ↵ Elle permet de déterminer la valeur réelle d'une entreprise, par opposition à sa valeur nominale (mentionné",
+      "length": 302,
+      "metadata": {
+        "term": "Valorisation",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valorisation\nElle permet de déterminer la valeur réelle d'une entreprise, par opposition à sa valeur nominale (mentionnée dans ses statuts). Cette opération est très longue et très coûteuse et peut être réalisée par le département Corporate d'une banque d'affaires ou par un cabinet expert par exemple."
+    },
+    {
+      "index": 180,
+      "preview": "Validité ↵ Indication apportée à l'ordre de bourse qui précise la durée pendant laquelle l'ordre reste valable dans la feu",
+      "length": 380,
+      "metadata": {
+        "term": "Validité",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Validité\nIndication apportée à l'ordre de bourse qui précise la durée pendant laquelle l'ordre reste valable dans la feuille de marché tant qu'il n'a pas reçu d'exécution (totalement ou partiellement). La validité est fixée par le donneur d'ordres et peut être d'un jour (ordre jour), jusqu'une date fixe (ordre à date limitée) ou de trente jours calendaires (ordre à révocation)."
+    },
+    {
+      "index": 181,
+      "preview": "Valeurs admises aux opérations du Dépositaire Central ↵ Les valeurs qui font l'objet d'ouverture de comptes courants auprè",
+      "length": 135,
+      "metadata": {
+        "term": "Valeurs admises aux opérations du Dépositaire Central",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeurs admises aux opérations du Dépositaire Central\nLes valeurs qui font l'objet d'ouverture de comptes courants auprès de Maroclear."
+    },
+    {
+      "index": 182,
+      "preview": "Valeur résiduelle ↵ Est déterminée au moment de l'acquisition. Il s'agit de l'estimation de la valeur que l'acquisition de",
+      "length": 172,
+      "metadata": {
+        "term": "Valeur résiduelle",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur résiduelle\nEst déterminée au moment de l'acquisition. Il s'agit de l'estimation de la valeur que l'acquisition devrait avoir à la fin de la durée de l'amortissement."
+    },
+    {
+      "index": 183,
+      "preview": "Valeur occasionnellement nominative ↵ Pour désigner une valeur dont l'inscription nominative est laissée à l'initiative de",
+      "length": 217,
+      "metadata": {
+        "term": "Valeur occasionnellement nominative",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur occasionnellement nominative\nPour désigner une valeur dont l'inscription nominative est laissée à l'initiative des titulaires. Les titres de ce type de valeurs peuvent revêtir la forme au porteur ou nominative."
+    },
+    {
+      "index": 184,
+      "preview": "Valeur nominale ↵ C'est la part d'emprunt initial de la société représentée par une obligation. Pour une action, il s'agit",
+      "length": 154,
+      "metadata": {
+        "term": "Valeur nominale",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur nominale\nC'est la part d'emprunt initial de la société représentée par une obligation. Pour une action, il s'agit de la fraction du capital social."
+    },
+    {
+      "index": 185,
+      "preview": "Valeur mobilière ↵ Titre financier qui peut être soit un titre de propriété, soit un titre de créance, qui confère des dro",
+      "length": 426,
+      "metadata": {
+        "term": "Valeur mobilière",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur mobilière\nTitre financier qui peut être soit un titre de propriété, soit un titre de créance, qui confère des droits standardisés et peut être échangé en bourse. Sont assimilées à des valeurs mobilières : les titres de créance négociables (TCN), les parts de fonds commun de placement, les parts de fonds de placements collectif en titrisation (FPCT) et les actions et parts d'organismes de placement en capital risque."
+    },
+    {
+      "index": 186,
+      "preview": "Valeur liquidative ↵ Une valeur liquidative est une valeur que l'on obtient en liquidant rapidement les actifs de l'entrep",
+      "length": 363,
+      "metadata": {
+        "term": "Valeur liquidative",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur liquidative\nUne valeur liquidative est une valeur que l'on obtient en liquidant rapidement les actifs de l'entreprise. En général, c'est une valeur basse car la vitesse de réalisation de la vente des actifs prévaut sur la maximisation du prix de vente. Elle sert souvent à estimer la valeur de l'actif économique d'une entreprise au bord du dépôt de bilan."
+    },
+    {
+      "index": 187,
+      "preview": "Valeur faciale ↵ Valeur sur laquelle sont calculés les intérêts pour une obligation. Elle correspond à la valeur nominale ",
+      "length": 254,
+      "metadata": {
+        "term": "Valeur faciale",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur faciale\nValeur sur laquelle sont calculés les intérêts pour une obligation. Elle correspond à la valeur nominale de l'obligation diminuée de la fraction de la valeur nominale remboursée pour chaque obligation d'un emprunt à amortissement constant."
+    },
+    {
+      "index": 188,
+      "preview": "Valeur exclusivement nominative ↵ Désigne une valeur dont la forme nominative est imposée à tous les titulaires par la loi",
+      "length": 160,
+      "metadata": {
+        "term": "Valeur exclusivement nominative",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Valeur exclusivement nominative\nDésigne une valeur dont la forme nominative est imposée à tous les titulaires par la loi ou les statuts de la société émettrice."
+    },
+    {
+      "index": 189,
+      "preview": "X-Franco ↵ Application utilisée pour les virements Franco et les écritures qui sont utilisés pour toutes les transactions ",
+      "length": 373,
+      "metadata": {
+        "term": "X-Franco",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "X-Franco\nApplication utilisée pour les virements Franco et les écritures qui sont utilisés pour toutes les transactions intra-établissements mettant en relation, soit deux clients du même intermédiaire financier (dont les avoirs sont comptabilisés dans des catégories distinctes), soit l'intermédiaire financier lui-même (opérant pour compte propre) et l'un de ses clients."
+    },
+    {
+      "index": 190,
+      "preview": "X-Appari ↵ Permet aux utilisateurs de transmettre à Maroclear leurs instructions de livraison contre paiement à dénouer en",
+      "length": 167,
+      "metadata": {
+        "term": "X-Appari",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "X-Appari\nPermet aux utilisateurs de transmettre à Maroclear leurs instructions de livraison contre paiement à dénouer entre J et J+30 (J étant la date de négociation)."
+    },
+    {
+      "index": 191,
+      "preview": "Zéro coupon (obligation) ↵ L'obligation à zéro coupon est un type d'obligation qui ne donne lieu à aucune distribution de ",
+      "length": 243,
+      "metadata": {
+        "term": "Zéro coupon (obligation)",
+        "type": "glossaire",
+        "source": "glossaire_maroclear.xlsx",
+        "format": "xlsx"
+      },
+      "content": "Zéro coupon (obligation)\nL'obligation à zéro coupon est un type d'obligation qui ne donne lieu à aucune distribution de coupons durant toute la durée de vie de l'obligation. En contrepartie, la valeur de remboursement au terme est plus élevée."
+    },
+    {
+      "index": 192,
+      "preview": "À Propos de MAROCLEAR ↵ Maroclear, le dépositaire central des titres au Maroc, joue un rôle essentiel ↵ dans la sécurité et ",
+      "length": 570,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "À Propos de MAROCLEAR\nMaroclear, le dépositaire central des titres au Maroc, joue un rôle essentiel\ndans la sécurité et l'efficacité du marché financier marocain en fournissant des\nservices de règlement, de conservation et de gestion des titres.Inspiré par les\nmeilleures pratiques internationales et engagé dans l'innovation, le dépositaire\ncentral Maroclear vise à renforcer la confiance des investisseurs et de\npromouvoir la transparence et l'efficience du marché financier national. Créé en 1997, Maroclear est le Dépositaire Central des Valeurs Mobilières au\nMaroc."
+    },
+    {
+      "index": 193,
+      "preview": "de MAROCLEAR Maroclear, le dépositaire central des titres au Maroc, joue un rôle essentiel dans la sécurité et l'efficac",
+      "length": 849,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "de MAROCLEAR Maroclear, le dépositaire central des titres au Maroc, joue un rôle essentiel dans la sécurité et l'efficacité du marché financier marocain en fournissant des services de règlement, de conservation et de gestion des titres.Inspiré par les meilleures pratiques internationales et engagé dans l'innovation, le dépositaire central Maroclear vise à renforcer la confiance des investisseurs et de promouvoir la transparence et l'efficience du marché financier national. Créé en 1997, Maroclear est le Dépositaire Central des Valeurs Mobilières au Maroc. Il est chargé d'assurer pour le compte de ses affiliés, de la\ndématérialisation des titres et leur conservation, de la gestion du système de\nrèglement livraison qui permet le dénouement des transactions ainsi que de\nl'administration de l'ensemble des événements liés à la vie d'un titre."
+    },
+    {
+      "index": 194,
+      "preview": "dépositaire central Maroclear vise à renforcer la confiance des investisseurs et de promouvoir la transparence et l'effi",
+      "length": 634,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "dépositaire central Maroclear vise à renforcer la confiance des investisseurs et de promouvoir la transparence et l'efficience du marché financier national. Créé en 1997, Maroclear est le Dépositaire Central des Valeurs Mobilières au Maroc. Il est chargé d'assurer pour le compte de ses affiliés, de la dématérialisation des titres et leur conservation, de la gestion du système de règlement livraison qui permet le dénouement des transactions ainsi que de l'administration de l'ensemble des événements liés à la vie d'un titre. Maroclear\napporte la sécurité et la fluidité nécessaires au bon fonctionnement des\nprocessus post-marché."
+    },
+    {
+      "index": 195,
+      "preview": "transparence et l'efficience du marché financier national. Créé en 1997, Maroclear est le Dépositaire Central des Valeur",
+      "length": 708,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "transparence et l'efficience du marché financier national. Créé en 1997, Maroclear est le Dépositaire Central des Valeurs Mobilières au Maroc. Il est chargé d'assurer pour le compte de ses affiliés, de la dématérialisation des titres et leur conservation, de la gestion du système de règlement livraison qui permet le dénouement des transactions ainsi que de l'administration de l'ensemble des événements liés à la vie d'un titre. Maroclear apporte la sécurité et la fluidité nécessaires au bon fonctionnement des processus post-marché. En tant que Dépositaire Central du Maroc et tiers indispensable au bon\nfonctionnement du marché, Maroclear est un acteur clé du développement du\nsecteur financier du pays."
+    },
+    {
+      "index": 196,
+      "preview": "de ses affiliés, de la dématérialisation des titres et leur conservation, de la gestion du système de règlement livraiso",
+      "length": 709,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "de ses affiliés, de la dématérialisation des titres et leur conservation, de la gestion du système de règlement livraison qui permet le dénouement des transactions ainsi que de l'administration de l'ensemble des événements liés à la vie d'un titre. Maroclear apporte la sécurité et la fluidité nécessaires au bon fonctionnement des processus post-marché. En tant que Dépositaire Central du Maroc et tiers indispensable au bon fonctionnement du marché, Maroclear est un acteur clé du développement du secteur financier du pays. La mission de cette institution est d'offrir à tous les\nintervenants un cadre totalement sécurisé et fiable pour la conservation de\nleurs titres et l'exécution de leurs transactions."
+    },
+    {
+      "index": 197,
+      "preview": "l'administration de l'ensemble des événements liés à la vie d'un titre. Maroclear apporte la sécurité et la fluidité néc",
+      "length": 816,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "l'administration de l'ensemble des événements liés à la vie d'un titre. Maroclear apporte la sécurité et la fluidité nécessaires au bon fonctionnement des processus post-marché. En tant que Dépositaire Central du Maroc et tiers indispensable au bon fonctionnement du marché, Maroclear est un acteur clé du développement du secteur financier du pays. La mission de cette institution est d'offrir à tous les intervenants un cadre totalement sécurisé et fiable pour la conservation de leurs titres et l'exécution de leurs transactions. À cette fin, Maroclear met à leur\ndisposition un système d'information de dernière génération ainsi que des\nressources humaines hautement qualifiées pour répondre à la complexité, à la\nvitesse et au développement de la quantité des actifs gérés sur la place\nfinancière de Casablanca."
+    },
+    {
+      "index": 198,
+      "preview": "clé du développement du secteur financier du pays. La mission de cette institution est d'offrir à tous les intervenants ",
+      "length": 647,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "clé du développement du secteur financier du pays. La mission de cette institution est d'offrir à tous les intervenants un cadre totalement sécurisé et fiable pour la conservation de leurs titres et l'exécution de leurs transactions. À cette fin, Maroclear met à leur disposition un système d'information de dernière génération ainsi que des ressources humaines hautement qualifiées pour répondre à la complexité, à la vitesse et au développement de la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au dynamisme du secteur\nfinancier marocain et de l'ouvrir aux marchés étrangers."
+    },
+    {
+      "index": 199,
+      "preview": "un cadre totalement sécurisé et fiable pour la conservation de leurs titres et l'exécution de leurs transactions. À cett",
+      "length": 678,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "un cadre totalement sécurisé et fiable pour la conservation de leurs titres et l'exécution de leurs transactions. À cette fin, Maroclear met à leur disposition un système d'information de dernière génération ainsi que des ressources humaines hautement qualifiées pour répondre à la complexité, à la vitesse et au développement de la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activitéprincipale exige que les processus soient conformes aux normes\ninternationales les plus strictes et aux meilleures pratiques."
+    },
+    {
+      "index": 200,
+      "preview": "met à leur disposition un système d'information de dernière génération ainsi que des ressources humaines hautement quali",
+      "length": 663,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "met à leur disposition un système d'information de dernière génération ainsi que des ressources humaines hautement qualifiées pour répondre à la complexité, à la vitesse et au développement de la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activitéprincipale exige que les processus soient conformes aux normes internationales les plus strictes et aux meilleures pratiques. Lʼambitieuse\nmontée en puissance de la Place Financière Marocaine s'accompagne ainsi\nd'un devoir impératif d'exemplarité."
+    },
+    {
+      "index": 201,
+      "preview": "hautement qualifiées pour répondre à la complexité, à la vitesse et au développement de la quantité des actifs gérés sur",
+      "length": 668,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "hautement qualifiées pour répondre à la complexité, à la vitesse et au développement de la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activitéprincipale exige que les processus soient conformes aux normes internationales les plus strictes et aux meilleures pratiques. Lʼambitieuse montée en puissance de la Place Financière Marocaine s'accompagne ainsi d'un devoir impératif d'exemplarité. Maroclear aspire à devenir une référence\nqui accompagnera l'émergence de l'industrie des services financiers."
+    },
+    {
+      "index": 202,
+      "preview": "la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au ",
+      "length": 676,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "la quantité des actifs gérés sur la place financière de Casablanca. Maroclear est animé par l'ambition de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activitéprincipale exige que les processus soient conformes aux normes internationales les plus strictes et aux meilleures pratiques. Lʼambitieuse montée en puissance de la Place Financière Marocaine s'accompagne ainsi d'un devoir impératif d'exemplarité. Maroclear aspire à devenir une référence qui accompagnera l'émergence de l'industrie des services financiers. Son\nexpertise, sa rigueur et sa capacité à innover sont des atouts essentiels dans\nce contexte."
+    },
+    {
+      "index": 203,
+      "preview": "de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activité",
+      "length": 857,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "de participer au dynamisme du secteur financier marocain et de l'ouvrir aux marchés étrangers. À cet effet, son activitéprincipale exige que les processus soient conformes aux normes internationales les plus strictes et aux meilleures pratiques. Lʼambitieuse montée en puissance de la Place Financière Marocaine s'accompagne ainsi d'un devoir impératif d'exemplarité. Maroclear aspire à devenir une référence qui accompagnera l'émergence de l'industrie des services financiers. Son expertise, sa rigueur et sa capacité à innover sont des atouts essentiels dans ce contexte. Lʼobjectif est de contribuer à un marché plus fluide, plus\ndynamique et plus sécurisé, permettant ainsi à Maroclear de se positionner\nSans titre 1\n\ncomme le partenaire de confiance indispensable pour les professionnels\nfinanciers ainsi que pour les investisseurs locaux et étrangers."
+    },
+    {
+      "index": 204,
+      "preview": "Financière Marocaine s'accompagne ainsi d'un devoir impératif d'exemplarité. Maroclear aspire à devenir une référence qu",
+      "length": 825,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Financière Marocaine s'accompagne ainsi d'un devoir impératif d'exemplarité. Maroclear aspire à devenir une référence qui accompagnera l'émergence de l'industrie des services financiers. Son expertise, sa rigueur et sa capacité à innover sont des atouts essentiels dans ce contexte. Lʼobjectif est de contribuer à un marché plus fluide, plus dynamique et plus sécurisé, permettant ainsi à Maroclear de se positionner Sans titre 1 comme le partenaire de confiance indispensable pour les professionnels financiers ainsi que pour les investisseurs locaux et étrangers. Notre histoire\nDepuis plus de 20 ans, le Dépositaire Central a investi massivement pour que,\nde la conservation au dénouement des titres, les opérations se déroulent dans\nla transparence, la sécurité et ce, en répondant aux meilleurs standards\ninternationaux."
+    },
+    {
+      "index": 205,
+      "preview": "est de contribuer à un marché plus fluide, plus dynamique et plus sécurisé, permettant ainsi à Maroclear de se positionn",
+      "length": 568,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "est de contribuer à un marché plus fluide, plus dynamique et plus sécurisé, permettant ainsi à Maroclear de se positionner Sans titre 1 comme le partenaire de confiance indispensable pour les professionnels financiers ainsi que pour les investisseurs locaux et étrangers. Notre histoire Depuis plus de 20 ans, le Dépositaire Central a investi massivement pour que, de la conservation au dénouement des titres, les opérations se déroulent dans la transparence, la sécurité et ce, en répondant aux meilleurs standards internationaux. Au commencement, il y eut le papier."
+    },
+    {
+      "index": 206,
+      "preview": "fluide, plus dynamique et plus sécurisé, permettant ainsi à Maroclear de se positionner Sans titre 1 comme le partenaire",
+      "length": 716,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "fluide, plus dynamique et plus sécurisé, permettant ainsi à Maroclear de se positionner Sans titre 1 comme le partenaire de confiance indispensable pour les professionnels financiers ainsi que pour les investisseurs locaux et étrangers. Notre histoire Depuis plus de 20 ans, le Dépositaire Central a investi massivement pour que, de la conservation au dénouement des titres, les opérations se déroulent dans la transparence, la sécurité et ce, en répondant aux meilleurs standards internationaux. Au commencement, il y eut le papier. Au démarrage des activités du\nDépositaire Central en septembre 1997, les premiers collaborateurs de\nMAROCLEAR recevaient des « ordres de virement de titres» sur des imprimés\npapiers."
+    },
+    {
+      "index": 207,
+      "preview": "que pour les investisseurs locaux et étrangers. Notre histoire Depuis plus de 20 ans, le Dépositaire Central a investi m",
+      "length": 709,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "que pour les investisseurs locaux et étrangers. Notre histoire Depuis plus de 20 ans, le Dépositaire Central a investi massivement pour que, de la conservation au dénouement des titres, les opérations se déroulent dans la transparence, la sécurité et ce, en répondant aux meilleurs standards internationaux. Au commencement, il y eut le papier. Au démarrage des activités du Dépositaire Central en septembre 1997, les premiers collaborateurs de MAROCLEAR recevaient des « ordres de virement de titres» sur des imprimés papiers. Ils procédaient à leur saisie manuellement et, en fin de journée,\néditaient des relevés que les coursiers de chaque Banque ou Société de Bourse\nvenaient récupérer en fin de journée."
+    },
+    {
+      "index": 208,
+      "preview": "opérations se déroulent dans la transparence, la sécurité et ce, en répondant aux meilleurs standards internationaux. Au",
+      "length": 693,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "opérations se déroulent dans la transparence, la sécurité et ce, en répondant aux meilleurs standards internationaux. Au commencement, il y eut le papier. Au démarrage des activités du Dépositaire Central en septembre 1997, les premiers collaborateurs de MAROCLEAR recevaient des « ordres de virement de titres» sur des imprimés papiers. Ils procédaient à leur saisie manuellement et, en fin de journée, éditaient des relevés que les coursiers de chaque Banque ou Société de Bourse venaient récupérer en fin de journée. Prestataire de services post-marché, MAROCLEAR contribue au\ndéveloppement du marchés des capitaux, notamment en facilitant le\nRèglement/Livraison de transactions sur titres."
+    },
+    {
+      "index": 209,
+      "preview": "le papier. Au démarrage des activités du Dépositaire Central en septembre 1997, les premiers collaborateurs de MAROCLEAR",
+      "length": 847,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "le papier. Au démarrage des activités du Dépositaire Central en septembre 1997, les premiers collaborateurs de MAROCLEAR recevaient des « ordres de virement de titres» sur des imprimés papiers. Ils procédaient à leur saisie manuellement et, en fin de journée, éditaient des relevés que les coursiers de chaque Banque ou Société de Bourse venaient récupérer en fin de journée. Prestataire de services post-marché, MAROCLEAR contribue au développement du marchés des capitaux, notamment en facilitant le Règlement/Livraison de transactions sur titres. Cette fonction est assurée non\nseulement pour le marché boursier, mais également pour les autres marchés de\ngré à gré où se négocient les autres valeurs admises aux opérations de\nMAROCLEAR Bons du Trésor, Titres de Créances Négociables et Organismes\nde Placement Collectifs en Valeurs Mobilières)."
+    },
+    {
+      "index": 210,
+      "preview": "de chaque Banque ou Société de Bourse venaient récupérer en fin de journée. Prestataire de services post-marché, MAROCLE",
+      "length": 717,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "de chaque Banque ou Société de Bourse venaient récupérer en fin de journée. Prestataire de services post-marché, MAROCLEAR contribue au développement du marchés des capitaux, notamment en facilitant le Règlement/Livraison de transactions sur titres. Cette fonction est assurée non seulement pour le marché boursier, mais également pour les autres marchés de gré à gré où se négocient les autres valeurs admises aux opérations de MAROCLEAR Bons du Trésor, Titres de Créances Négociables et Organismes de Placement Collectifs en Valeurs Mobilières). MAROCLEAR est l'histoire d'une\nentreprise qui a su anticiper avec agilité sa transition digitale avec maestria en\nrepoussant sans cesse les frontières de sa performance."
+    },
+    {
+      "index": 211,
+      "preview": "notamment en facilitant le Règlement/Livraison de transactions sur titres. Cette fonction est assurée non seulement pour",
+      "length": 889,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "notamment en facilitant le Règlement/Livraison de transactions sur titres. Cette fonction est assurée non seulement pour le marché boursier, mais également pour les autres marchés de gré à gré où se négocient les autres valeurs admises aux opérations de MAROCLEAR Bons du Trésor, Titres de Créances Négociables et Organismes de Placement Collectifs en Valeurs Mobilières). MAROCLEAR est l'histoire d'une entreprise qui a su anticiper avec agilité sa transition digitale avec maestria en repoussant sans cesse les frontières de sa performance. Dès mai 2003,\nMAROCLEAR a lancé le premier service post-marché complètement\nautomatisé, il s'agit des processus dits « Ajustement et dénouement» des\nopérations et le papier disparaît alors Si l'histoire se construit jour après jour, il\nn'en reste pas moins que des «moments clés» ont été de décisifs facteurs de\ncroissance et de valeurs ajoutées."
+    },
+    {
+      "index": 212,
+      "preview": "MAROCLEAR est l'histoire d'une entreprise qui a su anticiper avec agilité sa transition digitale avec maestria en repous",
+      "length": 646,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "MAROCLEAR est l'histoire d'une entreprise qui a su anticiper avec agilité sa transition digitale avec maestria en repoussant sans cesse les frontières de sa performance. Dès mai 2003, MAROCLEAR a lancé le premier service post-marché complètement automatisé, il s'agit des processus dits « Ajustement et dénouement» des opérations et le papier disparaît alors Si l'histoire se construit jour après jour, il n'en reste pas moins que des «moments clés» ont été de décisifs facteurs de croissance et de valeurs ajoutées. Le tournant décisif pour MAROCLEAR a été l'investissement des équipes dans\nune refonte totale des systèmes d'information en 2008."
+    },
+    {
+      "index": 213,
+      "preview": "cesse les frontières de sa performance. Dès mai 2003, MAROCLEAR a lancé le premier service post-marché complètement auto",
+      "length": 677,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "cesse les frontières de sa performance. Dès mai 2003, MAROCLEAR a lancé le premier service post-marché complètement automatisé, il s'agit des processus dits « Ajustement et dénouement» des opérations et le papier disparaît alors Si l'histoire se construit jour après jour, il n'en reste pas moins que des «moments clés» ont été de décisifs facteurs de croissance et de valeurs ajoutées. Le tournant décisif pour MAROCLEAR a été l'investissement des équipes dans une refonte totale des systèmes d'information en 2008. Une refonte qui a\npermis le renforcement de la sécurité, l'intégrité du marché et d'améliorer\nl'attractivité pour les investisseurs nationaux et internationaux."
+    },
+    {
+      "index": 214,
+      "preview": "dits « Ajustement et dénouement» des opérations et le papier disparaît alors Si l'histoire se construit jour après jour,",
+      "length": 615,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "dits « Ajustement et dénouement» des opérations et le papier disparaît alors Si l'histoire se construit jour après jour, il n'en reste pas moins que des «moments clés» ont été de décisifs facteurs de croissance et de valeurs ajoutées. Le tournant décisif pour MAROCLEAR a été l'investissement des équipes dans une refonte totale des systèmes d'information en 2008. Une refonte qui a permis le renforcement de la sécurité, l'intégrité du marché et d'améliorer l'attractivité pour les investisseurs nationaux et internationaux. Dès lors, l'entitéa pris son essor pour aborder une phase de consolidation jusquʼen 2016."
+    },
+    {
+      "index": 215,
+      "preview": "se construit jour après jour, il n'en reste pas moins que des «moments clés» ont été de décisifs facteurs de croissance ",
+      "length": 858,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "se construit jour après jour, il n'en reste pas moins que des «moments clés» ont été de décisifs facteurs de croissance et de valeurs ajoutées. Le tournant décisif pour MAROCLEAR a été l'investissement des équipes dans une refonte totale des systèmes d'information en 2008. Une refonte qui a permis le renforcement de la sécurité, l'intégrité du marché et d'améliorer l'attractivité pour les investisseurs nationaux et internationaux. Dès lors, l'entitéa pris son essor pour aborder une phase de consolidation jusquʼen 2016. Le plan de développement stratégique 20142016 s'est concrétisé à travers de\nmultiples réalisations telles quʼentre autres, le renforcement de la gouvernance,\nle lancement d'un nouveau service de dématérialisation des titres des sociétés\nSans titre 2\n\nnon cotées et la continuité de la mise à niveau des infrastructures\ninformatiques."
+    },
+    {
+      "index": 216,
+      "preview": "permis le renforcement de la sécurité, l'intégrité du marché et d'améliorer l'attractivité pour les investisseurs nation",
+      "length": 695,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "permis le renforcement de la sécurité, l'intégrité du marché et d'améliorer l'attractivité pour les investisseurs nationaux et internationaux. Dès lors, l'entitéa pris son essor pour aborder une phase de consolidation jusquʼen 2016. Le plan de développement stratégique 20142016 s'est concrétisé à travers de multiples réalisations telles quʼentre autres, le renforcement de la gouvernance, le lancement d'un nouveau service de dématérialisation des titres des sociétés Sans titre 2 non cotées et la continuité de la mise à niveau des infrastructures informatiques. Depuis, MAROCLEAR se dote des moyens de ses ambitions\nlesquelles sont tournées vers la société Casablanca Finance City Authority."
+    },
+    {
+      "index": 217,
+      "preview": "lors, l'entitéa pris son essor pour aborder une phase de consolidation jusquʼen 2016. Le plan de développement stratégiq",
+      "length": 672,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "lors, l'entitéa pris son essor pour aborder une phase de consolidation jusquʼen 2016. Le plan de développement stratégique 20142016 s'est concrétisé à travers de multiples réalisations telles quʼentre autres, le renforcement de la gouvernance, le lancement d'un nouveau service de dématérialisation des titres des sociétés Sans titre 2 non cotées et la continuité de la mise à niveau des infrastructures informatiques. Depuis, MAROCLEAR se dote des moyens de ses ambitions lesquelles sont tournées vers la société Casablanca Finance City Authority. MAROCLEAR s'inscrit en phase avec les acteurs du marché qui feront de la\nPlace deCasablanca un hub régional incontournable."
+    },
+    {
+      "index": 218,
+      "preview": "s'est concrétisé à travers de multiples réalisations telles quʼentre autres, le renforcement de la gouvernance, le lance",
+      "length": 852,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "s'est concrétisé à travers de multiples réalisations telles quʼentre autres, le renforcement de la gouvernance, le lancement d'un nouveau service de dématérialisation des titres des sociétés Sans titre 2 non cotées et la continuité de la mise à niveau des infrastructures informatiques. Depuis, MAROCLEAR se dote des moyens de ses ambitions lesquelles sont tournées vers la société Casablanca Finance City Authority. MAROCLEAR s'inscrit en phase avec les acteurs du marché qui feront de la Place deCasablanca un hub régional incontournable. › La loi n° 35-96 relative au Dépositaire Central\nFondé en 1997 sous forme de Société Anonyme en tant que Dépositaire Central\ndes valeurs mobilières, en vertu des dispositions du Dahir n° 196246 du 9\njanvier 1997, portant promulgation de la loi n°3596 relative notamment, à la\ncréation d'un dépositaire central."
+    },
+    {
+      "index": 219,
+      "preview": "lesquelles sont tournées vers la société Casablanca Finance City Authority. MAROCLEAR s'inscrit en phase avec les acteur",
+      "length": 744,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "lesquelles sont tournées vers la société Casablanca Finance City Authority. MAROCLEAR s'inscrit en phase avec les acteurs du marché qui feront de la Place deCasablanca un hub régional incontournable. › La loi n° 35-96 relative au Dépositaire Central Fondé en 1997 sous forme de Société Anonyme en tant que Dépositaire Central des valeurs mobilières, en vertu des dispositions du Dahir n° 196246 du 9 janvier 1997, portant promulgation de la loi n°3596 relative notamment, à la création d'un dépositaire central. Il offre à ses clients, exclusivement constitués\nd'émetteurs, de banques et de sociétés de bourse, une vaste gamme de\nprestations répondant à la fois aux besoins du marché et aux exigences de\nconformité aux standards internationaux."
+    },
+    {
+      "index": 220,
+      "preview": "Dépositaire Central Fondé en 1997 sous forme de Société Anonyme en tant que Dépositaire Central des valeurs mobilières, ",
+      "length": 638,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Dépositaire Central Fondé en 1997 sous forme de Société Anonyme en tant que Dépositaire Central des valeurs mobilières, en vertu des dispositions du Dahir n° 196246 du 9 janvier 1997, portant promulgation de la loi n°3596 relative notamment, à la création d'un dépositaire central. Il offre à ses clients, exclusivement constitués d'émetteurs, de banques et de sociétés de bourse, une vaste gamme de prestations répondant à la fois aux besoins du marché et aux exigences de conformité aux standards internationaux. MAROCLEAR assure pour le compte de ses affiliés la conservation des titres,\nleur circulation ainsi que leur administration."
+    },
+    {
+      "index": 221,
+      "preview": "en vertu des dispositions du Dahir n° 196246 du 9 janvier 1997, portant promulgation de la loi n°3596 relative notamment",
+      "length": 670,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "en vertu des dispositions du Dahir n° 196246 du 9 janvier 1997, portant promulgation de la loi n°3596 relative notamment, à la création d'un dépositaire central. Il offre à ses clients, exclusivement constitués d'émetteurs, de banques et de sociétés de bourse, une vaste gamme de prestations répondant à la fois aux besoins du marché et aux exigences de conformité aux standards internationaux. MAROCLEAR assure pour le compte de ses affiliés la conservation des titres, leur circulation ainsi que leur administration. Tant pour les négociations de\nbourse que pour les transactions de gré à gré, MAROCLEAR est impliqué d'un\nbout à l'autre dans la phase post-négociation."
+    },
+    {
+      "index": 222,
+      "preview": "central. Il offre à ses clients, exclusivement constitués d'émetteurs, de banques et de sociétés de bourse, une vaste ga",
+      "length": 706,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "central. Il offre à ses clients, exclusivement constitués d'émetteurs, de banques et de sociétés de bourse, une vaste gamme de prestations répondant à la fois aux besoins du marché et aux exigences de conformité aux standards internationaux. MAROCLEAR assure pour le compte de ses affiliés la conservation des titres, leur circulation ainsi que leur administration. Tant pour les négociations de bourse que pour les transactions de gré à gré, MAROCLEAR est impliqué d'un bout à l'autre dans la phase post-négociation. Les dispositifs mis en place par MAROCLEAR permettent d'apparier et de\ndénouer, selon le principe du règlement contre livraison, toute transaction sur\nles valeurs admises à ses opérations."
+    },
+    {
+      "index": 223,
+      "preview": "marché et aux exigences de conformité aux standards internationaux. MAROCLEAR assure pour le compte de ses affiliés la c",
+      "length": 774,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "marché et aux exigences de conformité aux standards internationaux. MAROCLEAR assure pour le compte de ses affiliés la conservation des titres, leur circulation ainsi que leur administration. Tant pour les négociations de bourse que pour les transactions de gré à gré, MAROCLEAR est impliqué d'un bout à l'autre dans la phase post-négociation. Les dispositifs mis en place par MAROCLEAR permettent d'apparier et de dénouer, selon le principe du règlement contre livraison, toute transaction sur les valeurs admises à ses opérations. Concrètement, cela se traduit d'une part\npar des flux titres imputés directement sur les comptes que MAROCLEAR\nconserve et d'autre part par des flux espèces correspondants, instruits\nconcomitamment auprès de Bank Al-Maghrib Banque Centrale)."
+    },
+    {
+      "index": 224,
+      "preview": "pour les transactions de gré à gré, MAROCLEAR est impliqué d'un bout à l'autre dans la phase post-négociation. Les dispo",
+      "length": 707,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "pour les transactions de gré à gré, MAROCLEAR est impliqué d'un bout à l'autre dans la phase post-négociation. Les dispositifs mis en place par MAROCLEAR permettent d'apparier et de dénouer, selon le principe du règlement contre livraison, toute transaction sur les valeurs admises à ses opérations. Concrètement, cela se traduit d'une part par des flux titres imputés directement sur les comptes que MAROCLEAR conserve et d'autre part par des flux espèces correspondants, instruits concomitamment auprès de Bank Al-Maghrib Banque Centrale). › Le règlement général du Dépositaire Central\nMAROCLEAR est régulé par un Règlement Général, approuvé par le Ministre\ndes Finances (arrêté n°932.98 du 16 avril 1998."
+    },
+    {
+      "index": 225,
+      "preview": "d'apparier et de dénouer, selon le principe du règlement contre livraison, toute transaction sur les valeurs admises à s",
+      "length": 717,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "d'apparier et de dénouer, selon le principe du règlement contre livraison, toute transaction sur les valeurs admises à ses opérations. Concrètement, cela se traduit d'une part par des flux titres imputés directement sur les comptes que MAROCLEAR conserve et d'autre part par des flux espèces correspondants, instruits concomitamment auprès de Bank Al-Maghrib Banque Centrale). › Le règlement général du Dépositaire Central MAROCLEAR est régulé par un Règlement Général, approuvé par le Ministre des Finances (arrêté n°932.98 du 16 avril 1998. Il est placé sous la supervision\ndu Ministère des Finances et est soumis au contrôle de l'AMMC Autorité\nMarocaine du Marché des Capitaux) ainsi quʼà celui de Bank Al-Maghrib."
+    },
+    {
+      "index": 226,
+      "preview": "titres imputés directement sur les comptes que MAROCLEAR conserve et d'autre part par des flux espèces correspondants, i",
+      "length": 781,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "titres imputés directement sur les comptes que MAROCLEAR conserve et d'autre part par des flux espèces correspondants, instruits concomitamment auprès de Bank Al-Maghrib Banque Centrale). › Le règlement général du Dépositaire Central MAROCLEAR est régulé par un Règlement Général, approuvé par le Ministre des Finances (arrêté n°932.98 du 16 avril 1998. Il est placé sous la supervision du Ministère des Finances et est soumis au contrôle de l'AMMC Autorité Marocaine du Marché des Capitaux) ainsi quʼà celui de Bank Al-Maghrib. Le\nRèglement Général est pris en application de la loi n° 3596 relative à la\ncréation d'un dépositaire central et à l'institution d'un régime général de\nl'inscription en compte de certaines valeurs, promulguée par le dahir n° 196\n246 du 9 janvier 1997."
+    },
+    {
+      "index": 227,
+      "preview": "des Finances (arrêté n°932.98 du 16 avril 1998. Il est placé sous la supervision du Ministère des Finances et est soumis",
+      "length": 571,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "des Finances (arrêté n°932.98 du 16 avril 1998. Il est placé sous la supervision du Ministère des Finances et est soumis au contrôle de l'AMMC Autorité Marocaine du Marché des Capitaux) ainsi quʼà celui de Bank Al-Maghrib. Le Règlement Général est pris en application de la loi n° 3596 relative à la création d'un dépositaire central et à l'institution d'un régime général de l'inscription en compte de certaines valeurs, promulguée par le dahir n° 196 246 du 9 janvier 1997. Il fixe les règles de fonctionnement du Dépositaire\nCentral et les obligations de ses affiliés."
+    },
+    {
+      "index": 228,
+      "preview": "Ministère des Finances et est soumis au contrôle de l'AMMC Autorité Marocaine du Marché des Capitaux) ainsi quʼà celui d",
+      "length": 721,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Ministère des Finances et est soumis au contrôle de l'AMMC Autorité Marocaine du Marché des Capitaux) ainsi quʼà celui de Bank Al-Maghrib. Le Règlement Général est pris en application de la loi n° 3596 relative à la création d'un dépositaire central et à l'institution d'un régime général de l'inscription en compte de certaines valeurs, promulguée par le dahir n° 196 246 du 9 janvier 1997. Il fixe les règles de fonctionnement du Dépositaire Central et les obligations de ses affiliés. Sans titre 3\n\nLes services :\nAffiliationL'affiliation aux services du Dépositaire Central des titres désigne\nle processus par lequel une institution financière ou un émetteur s'inscrit\nauprès de Maroclear pour accéder à ses services."
+    },
+    {
+      "index": 229,
+      "preview": "relative à la création d'un dépositaire central et à l'institution d'un régime général de l'inscription en compte de cer",
+      "length": 620,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "relative à la création d'un dépositaire central et à l'institution d'un régime général de l'inscription en compte de certaines valeurs, promulguée par le dahir n° 196 246 du 9 janvier 1997. Il fixe les règles de fonctionnement du Dépositaire Central et les obligations de ses affiliés. Sans titre 3 Les services : AffiliationL'affiliation aux services du Dépositaire Central des titres désigne le processus par lequel une institution financière ou un émetteur s'inscrit auprès de Maroclear pour accéder à ses services. Règlement/LivraisonLe dénouement fait référence à l'achèvement d'une\ntransaction sur titre financier."
+    },
+    {
+      "index": 230,
+      "preview": "régime général de l'inscription en compte de certaines valeurs, promulguée par le dahir n° 196 246 du 9 janvier 1997. Il",
+      "length": 720,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "régime général de l'inscription en compte de certaines valeurs, promulguée par le dahir n° 196 246 du 9 janvier 1997. Il fixe les règles de fonctionnement du Dépositaire Central et les obligations de ses affiliés. Sans titre 3 Les services : AffiliationL'affiliation aux services du Dépositaire Central des titres désigne le processus par lequel une institution financière ou un émetteur s'inscrit auprès de Maroclear pour accéder à ses services. Règlement/LivraisonLe dénouement fait référence à l'achèvement d'une transaction sur titre financier. Cela implique le processus de règlementlivraison par lequel la propriété des titres et les fonds associés sont\ntransférés entre les parties impliquées dans la transaction."
+    },
+    {
+      "index": 231,
+      "preview": "fonctionnement du Dépositaire Central et les obligations de ses affiliés. Sans titre 3 Les services : AffiliationL'affil",
+      "length": 811,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "fonctionnement du Dépositaire Central et les obligations de ses affiliés. Sans titre 3 Les services : AffiliationL'affiliation aux services du Dépositaire Central des titres désigne le processus par lequel une institution financière ou un émetteur s'inscrit auprès de Maroclear pour accéder à ses services. Règlement/LivraisonLe dénouement fait référence à l'achèvement d'une transaction sur titre financier. Cela implique le processus de règlementlivraison par lequel la propriété des titres et les fonds associés sont transférés entre les parties impliquées dans la transaction. Admission des titresL'admission des titres chez Maroclear fait référence au\nprocessus par lequel des titres financiers sont inscrits et reconnus dans les\nsystèmes du dépositaire central des titres pour y être conservés et traités."
+    },
+    {
+      "index": 232,
+      "preview": "émetteur s'inscrit auprès de Maroclear pour accéder à ses services. Règlement/LivraisonLe dénouement fait référence à l'",
+      "length": 737,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "émetteur s'inscrit auprès de Maroclear pour accéder à ses services. Règlement/LivraisonLe dénouement fait référence à l'achèvement d'une transaction sur titre financier. Cela implique le processus de règlementlivraison par lequel la propriété des titres et les fonds associés sont transférés entre les parties impliquées dans la transaction. Admission des titresL'admission des titres chez Maroclear fait référence au processus par lequel des titres financiers sont inscrits et reconnus dans les systèmes du dépositaire central des titres pour y être conservés et traités. Opérations sur titresL'administration des titres désigne l'ensemble des\nactivités liées à la gestion des évènements sur instruments financiers admis\nchez Maroclear."
+    },
+    {
+      "index": 233,
+      "preview": "Cela implique le processus de règlementlivraison par lequel la propriété des titres et les fonds associés sont transféré",
+      "length": 1251,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Cela implique le processus de règlementlivraison par lequel la propriété des titres et les fonds associés sont transférés entre les parties impliquées dans la transaction. Admission des titresL'admission des titres chez Maroclear fait référence au processus par lequel des titres financiers sont inscrits et reconnus dans les systèmes du dépositaire central des titres pour y être conservés et traités. Opérations sur titresL'administration des titres désigne l'ensemble des activités liées à la gestion des évènements sur instruments financiers admis chez Maroclear. ConservationLa conservation est le processus par lequel Maroclear garde\net gère l'intégralité des instruments financiers détenus par ses affiliés,\nAffiliation au dépositaire central :\nAffiliation sous mandat :\nc'est le fait quʼun affilie donne mandat a un autre pour gérer les comptes\ncourant ouvert a son nom aupres du depositaire central\nAffiliation pleine exercice :\nau contraire de la premiere ici l'affilie gere lui meme tous se comptes sans\nrecourir a un autre affilie\nSans titre 4\n\n-les documents pour l'affiliation sont :\ndes preuves l'autorisant à exercices une activité réglementé (l'habilitation)\ndes informations opérationnelles et des preuves de conformitéréglementaire."
+    },
+    {
+      "index": 234,
+      "preview": "au dépositaire central : Affiliation sous mandat : c'est le fait quʼun affilie donne mandat a un autre pour gérer les co",
+      "length": 748,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "au dépositaire central : Affiliation sous mandat : c'est le fait quʼun affilie donne mandat a un autre pour gérer les comptes courant ouvert a son nom aupres du depositaire central Affiliation pleine exercice : au contraire de la premiere ici l'affilie gere lui meme tous se comptes sans recourir a un autre affilie Sans titre 4 -les documents pour l'affiliation sont : des preuves l'autorisant à exercices une activité réglementé (l'habilitation) des informations opérationnelles et des preuves de conformitéréglementaire. Avantages du service d'affiliation de Maroclear\nL'affiliation au dépositaire central permet d'accéder à une infrastructure de\nmarché qui garantisse :\nSécurité : Les titres sont gardés en sécurité identifiés par codification."
+    },
+    {
+      "index": 235,
+      "preview": "Affiliation pleine exercice : au contraire de la premiere ici l'affilie gere lui meme tous se comptes sans recourir a un",
+      "length": 654,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Affiliation pleine exercice : au contraire de la premiere ici l'affilie gere lui meme tous se comptes sans recourir a un autre affilie Sans titre 4 -les documents pour l'affiliation sont : des preuves l'autorisant à exercices une activité réglementé (l'habilitation) des informations opérationnelles et des preuves de conformitéréglementaire. Avantages du service d'affiliation de Maroclear L'affiliation au dépositaire central permet d'accéder à une infrastructure de marché qui garantisse : Sécurité : Les titres sont gardés en sécurité identifiés par codification. Efficacité : Le règlement des transactions de titres est plus rapide et plus\nefficace."
+    },
+    {
+      "index": 236,
+      "preview": "tous se comptes sans recourir a un autre affilie Sans titre 4 -les documents pour l'affiliation sont : des preuves l'aut",
+      "length": 701,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "tous se comptes sans recourir a un autre affilie Sans titre 4 -les documents pour l'affiliation sont : des preuves l'autorisant à exercices une activité réglementé (l'habilitation) des informations opérationnelles et des preuves de conformitéréglementaire. Avantages du service d'affiliation de Maroclear L'affiliation au dépositaire central permet d'accéder à une infrastructure de marché qui garantisse : Sécurité : Les titres sont gardés en sécurité identifiés par codification. Efficacité : Le règlement des transactions de titres est plus rapide et plus efficace. Réduction des risques : Les risques opérationnels et de contrepartie sont\nréduits grâce à des processus centralisés et standardisés."
+    },
+    {
+      "index": 237,
+      "preview": "preuves l'autorisant à exercices une activité réglementé (l'habilitation) des informations opérationnelles et des preuve",
+      "length": 701,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "preuves l'autorisant à exercices une activité réglementé (l'habilitation) des informations opérationnelles et des preuves de conformitéréglementaire. Avantages du service d'affiliation de Maroclear L'affiliation au dépositaire central permet d'accéder à une infrastructure de marché qui garantisse : Sécurité : Les titres sont gardés en sécurité identifiés par codification. Efficacité : Le règlement des transactions de titres est plus rapide et plus efficace. Réduction des risques : Les risques opérationnels et de contrepartie sont réduits grâce à des processus centralisés et standardisés. Accès au marché : Les membres peuvent accéder à une gamme plus large\nde marchés et de produits financiers."
+    },
+    {
+      "index": 238,
+      "preview": "d'affiliation de Maroclear L'affiliation au dépositaire central permet d'accéder à une infrastructure de marché qui gara",
+      "length": 757,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "d'affiliation de Maroclear L'affiliation au dépositaire central permet d'accéder à une infrastructure de marché qui garantisse : Sécurité : Les titres sont gardés en sécurité identifiés par codification. Efficacité : Le règlement des transactions de titres est plus rapide et plus efficace. Réduction des risques : Les risques opérationnels et de contrepartie sont réduits grâce à des processus centralisés et standardisés. Accès au marché : Les membres peuvent accéder à une gamme plus large de marchés et de produits financiers. Services complémentaires : Les affiliés peuvent bénéficier de services\nsupplémentaires tels que la gestion des garanties, les prêts de titres, et la\ngestion des événements d'entreprise (dividendes, assemblées générales,\netc.)."
+    },
+    {
+      "index": 239,
+      "preview": "Le règlement des transactions de titres est plus rapide et plus efficace. Réduction des risques : Les risques opérationn",
+      "length": 760,
+      "metadata": {
+        "type": "narrative",
+        "source": "cf85a1c4-63ef-4720-bc70-ebfe9a370888_Sans_titre.pdf",
+        "format": "narrative"
+      },
+      "content": "Le règlement des transactions de titres est plus rapide et plus efficace. Réduction des risques : Les risques opérationnels et de contrepartie sont réduits grâce à des processus centralisés et standardisés. Accès au marché : Les membres peuvent accéder à une gamme plus large de marchés et de produits financiers. Services complémentaires : Les affiliés peuvent bénéficier de services supplémentaires tels que la gestion des garanties, les prêts de titres, et la gestion des événements d'entreprise (dividendes, assemblées générales, etc.). Partenaires locaux et internationaux\nAMEDA\nAMIC\nANNA\nAPSB\nBCEAO\nBEAC\nBourse de Casablanca\nBVMAC\nSans titre 5\n\nCSCS PLC\nDC/BR\nEuroclear\nGPBM\nLondon Stock Exchange\nMaroc PME\nOrdre des Experts Comptables\nQCSD\n\nSans titre 6"
+    }
+  ]
+}

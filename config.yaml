@@ -7,21 +7,23 @@ llm:
   provider: "ollama"
   model: "mistral:7b-instruct"
   base_url: "http://localhost:11434"
-  temperature: 0.2  # Bas pour réponses factuelles
+  temperature: 0.1  # Bas pour réponses factuelles
   max_tokens: 800
 
-# Embeddings Local
 embeddings:
-  model: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"  # Support français
-  device: "cpu"  # ou "cuda" si GPU disponible
+  provider: "ollama"
+  model: "nomic-embed-text"
+  base_url: "http://localhost:11434"
   batch_size: 32
+
+
 
 # RAG Settings
 rag:
   chunk_size: 600  # 🔧 Augmenté de 500 à 600 pour plus de contexte
-  chunk_overlap: 100  # 🔧 Augmenté de 50 à 100
-  top_k: 5
-  similarity_threshold: 0.5  # 🔧 REMPLACÉ distance_threshold par similarity_threshold
+  chunk_overlap: 80  # 🔧 Augmenté de 50 à 100
+  top_k: 8
+  similarity_threshold: 0.4  # 🔧 REMPLACÉ distance_threshold par similarity_threshold
 
 # Vector Store (ChromaDB local)
 vector_store:
