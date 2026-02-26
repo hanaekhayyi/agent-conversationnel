@@ -8,9 +8,9 @@ import numpy as np
 
 
 class LocalEmbeddings:
-    """Génère des embeddings en local via Ollama (nomic-embed-text)"""
+    """Génère des embeddings en local via Ollama (bge-m3)"""
 
-    def __init__(self, model_name: str = "nomic-embed-text"):
+    def __init__(self, model_name: str = "bge-m3"):
         self.model_name = model_name
 
         print(f"🔧 Modèle d'embeddings : {model_name} (via Ollama)")

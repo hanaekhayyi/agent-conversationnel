@@ -9,7 +9,7 @@ from typing import Dict, Any
 class OllamaClient:
     """Client Ollama local"""
 
-    def __init__(self, model: str = "mistral:7b-instruct", temperature: float = 0.1):
+    def __init__(self, model: str = "deepseek-r1:7b", temperature: float = 0.1):
         # température abaissée à 0.1 pour réduire les hallucinations
         self.model       = model
         self.temperature = temperature

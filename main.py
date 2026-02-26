@@ -169,12 +169,12 @@ def test_rag_agent(config, vector_store=None, embeddings_model=None):
     )
 
     test_questions = [
-        #"C'est quoi Maroclear ?",
+        "C'est quoi Maroclear ?",
         #"Quels sont les services proposés aux affiliés ?",
-        #"Comment devenir affilié chez Maroclear ?",
-        "Qu'est-ce qu'un Apport de titres ?",
-        #"Quel est le rôle du dépositaire central ?",
-        "Qu'est-ce qu'un Affilié sous mandat ?",
+        "Comment devenir affilié chez Maroclear ?",
+        #"Qu'est-ce qu'un Apport de titres ?",
+        "Quel est le rôle du dépositaire central ?",
+        #"Qu'est-ce qu'un Affilié sous mandat ?",
     ]
 
     context = AgentContext()

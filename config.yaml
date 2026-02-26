@@ -5,18 +5,16 @@ version: "1.0.0"
 # LLM Local (Ollama)
 llm:
   provider: "ollama"
-  model: "mistral:7b-instruct"
+  model: "deepseek-r1:7b" #Changé de "mistral:7b-instruct" à "llama3.1 a gemma2:9b a deepseek-r1:7b" 
   base_url: "http://localhost:11434"
-  temperature: 0.1  # Bas pour réponses factuelles
-  max_tokens: 800
+  temperature: 0.1  
+  max_tokens: 1024
 
 embeddings:
   provider: "ollama"
-  model: "nomic-embed-text"
+  model: "bge-m3"  # Changement de "nomic-embed-text" à "bge-m3"
   base_url: "http://localhost:11434"
   batch_size: 32
-
-
 
 # RAG Settings
 rag:
