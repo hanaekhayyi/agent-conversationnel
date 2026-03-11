@@ -156,10 +156,18 @@ def test_rag_agent(config, vector_store=None, embeddings_model=None):
         top_k=config['rag'].get('top_k', 8),
         similarity_threshold=config['rag'].get('similarity_threshold', 0.4),
     )
-
+    """
     llm_client = OllamaClient(
         model=config['llm']['model'],
         temperature=config['llm'].get('temperature', 0.1),
+    )
+    """
+    llm_client = OllamaClient(
+    model=config['llm']['model'],
+    temperature=config['llm'].get('temperature', 0.1),
+    api_key=config['llm'].get('api_key'),
+    base_url=config['llm'].get('base_url', 'https://openrouter.ai/api/v1'),
+    max_tokens=config['llm'].get('max_tokens', 1024),
     )
 
     rag_agent = RAGAgent(
@@ -169,12 +177,12 @@ def test_rag_agent(config, vector_store=None, embeddings_model=None):
     )
 
     test_questions = [
-        "C'est quoi Maroclear ?",
+        #"C'est quoi Maroclear ?",
         #"Quels sont les services proposés aux affiliés ?",
-        "Comment devenir affilié chez Maroclear ?",
+        #"Comment devenir affilié chez Maroclear ?",
         #"Qu'est-ce qu'un Apport de titres ?",
-        "Quel est le rôle du dépositaire central ?",
-        #"Qu'est-ce qu'un Affilié sous mandat ?",
+        #"Quel est le rôle du dépositaire central ?",
+        "Qu'est-ce qu'un OPCVM ?",
     ]
 
     context = AgentContext()

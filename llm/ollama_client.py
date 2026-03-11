@@ -1,35 +1,58 @@
 """
-Client pour Ollama en local
+Client LLM via OpenRouter API (compatible OpenAI)
+Remplace l'ancien client Ollama local.
+
+Installation :
+    pip install openai
+
+Usage dans config.yaml :
+    llm:
+      provider: "openrouter"
+      model: "arcee-ai/trinity-large-preview:free"
+      base_url: "https://openrouter.ai/api/v1"
+      api_key: "sk-or-..."
+      temperature: 0.1
+      max_tokens: 1024
 """
 
-import ollama
+from openai import OpenAI
 from typing import Dict, Any
 
 
 class OllamaClient:
-    """Client Ollama local"""
+    """
+    Client OpenRouter — conserve le nom OllamaClient pour ne pas modifier
+    les imports dans main.py et rag_agent.py.
+    """
 
-    def __init__(self, model: str = "deepseek-r1:7b", temperature: float = 0.1):
-        # température abaissée à 0.1 pour réduire les hallucinations
+    def __init__(
+        self,
+        model: str         = "arcee-ai/trinity-large-preview:free",
+        temperature: float = 0.1,
+        api_key: str       = None,
+        base_url: str      = "https://openrouter.ai/api/v1",
+        max_tokens: int    = 1024,
+    ):
         self.model       = model
         self.temperature = temperature
+        self.max_tokens  = max_tokens
 
-        try:
-            ollama.list()
-            print(f"Ollama connecté - Modèle: {model}")
-        except Exception as e:
-            print(f"Erreur Ollama: {e}")
-            raise
+        if not api_key:
+            raise ValueError(
+                "api_key manquant. "
+                "Ajoutez llm.api_key dans config.yaml ou passez-le en argument."
+            )
+
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url=base_url,
+        )
+
+        print(f"OpenRouter connecté — Modèle : {model}")
 
     def generate_rag_response(self, query: str, context: str) -> str:
-        """Génère une réponse basée sur le contexte fourni"""
+        """Génère une réponse basée sur le contexte fourni."""
 
-        # ── Prompt système ────────────────────────────────────────────────────
-        # Principes :
-        # - Contrainte stricte : répondre UNIQUEMENT à partir du contexte
-        # - Interdire explicitement l'invention ("ne jamais inventer")
-        # - Demander de citer la source (glossaire vs document)
-        # - Garder un format clair et direct
         system_prompt = """Tu es un assistant spécialisé sur Maroclear, le dépositaire central des titres au Maroc.
 
 RÈGLES ABSOLUES — tu dois les respecter sans exception :
@@ -41,15 +64,32 @@ RÈGLES ABSOLUES — tu dois les respecter sans exception :
 4. Si une définition exacte est disponible dans le contexte, cite-la fidèlement.
 5. Si plusieurs extraits du contexte traitent du même sujet, synthétise-les.
 
-FORMAT DE RÉPONSE :
-- Commence directement par la réponse, sans introduction du type "Selon le contexte..."
-- Pour une définition : commence par "[Terme] est / désigne / correspond à..."
-- Pour une procédure : utilise une liste numérotée
-- Sois concis : 3 à 8 phrases maximum sauf si plus de détails sont clairement demandés"""
+FORMAT DE RÉPONSE — choisis automatiquement selon le contenu :
 
-        # ── Prompt utilisateur ────────────────────────────────────────────────
-        # On sépare visuellement le contexte de la question pour que le modèle
-        # ne confonde pas les deux.
+CAS 1 — DÉFINITION (question du type "c'est quoi", "qu'est-ce que", "définition de") :
+  → Réponds en 1 à 3 phrases, en commençant par "[Terme] est / désigne / correspond à..."
+  → Pas de liste, pas de titre, juste un paragraphe fluide.
+
+CAS 2 — PROCÉDURE / ÉTAPES (question du type "comment", "quelles sont les étapes", "comment devenir", "comment faire") :
+  → Utilise une liste numérotée claire :
+     1. Première étape
+     2. Deuxième étape
+     ...
+  → Ajoute un titre court avant la liste si utile (ex: "**Pour devenir affilié chez Maroclear :**")
+  → Si certaines étapes ont des sous-conditions, utilise des tirets (–) en dessous.
+
+CAS 3 — LISTE DE SERVICES / CARACTÉRISTIQUES (question du type "quels sont", "quelles sont") :
+  → Utilise une liste à puces (•) :
+     • Premier élément
+     • Deuxième élément
+  → Ajoute une phrase d'introduction avant la liste.
+
+CAS 4 — QUESTION GÉNÉRALE / RÔLE / MISSION :
+  → Réponds en 2 à 4 phrases organisées en paragraphe.
+  → Pas de liste sauf si le contexte en contient une explicitement.
+
+RÈGLE UNIVERSELLE : ne jamais mélanger les formats. Si la réponse est une définition, pas de liste. Si c'est une procédure, pas de paragraphe continu."""
+
         user_prompt = f"""### CONTEXTE DOCUMENTAIRE
 {context}
 
@@ -58,18 +98,18 @@ FORMAT DE RÉPONSE :
 
 ### RÉPONSE (basée exclusivement sur le contexte ci-dessus)"""
 
-        response = ollama.chat(
-            model=self.model,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user",   "content": user_prompt},
-            ],
-            options={
-                "temperature": self.temperature,
-                "num_predict": 1024,   # ← augmenté (600 tronquait les réponses)
-                "top_p":       0.9,
-                "repeat_penalty": 1.1, # ← réduit les répétitions
-            }
-        )
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user",   "content": user_prompt},
+                ],
+                temperature=self.temperature,
+                max_tokens=self.max_tokens,
+            )
+            return response.choices[0].message.content.strip()
 
-        return response['message']['content'].strip()
+        except Exception as e:
+            print(f"[ERREUR OpenRouter] {e}")
+            return f"Erreur lors de la génération de la réponse : {e}"
