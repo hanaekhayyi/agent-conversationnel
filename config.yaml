@@ -15,7 +15,7 @@ llm:
   provider: "openrouter"                              # ← modifié
   model: "arcee-ai/trinity-large-preview:free"        # ← modifié
   base_url: "https://openrouter.ai/api/v1"            # ← modifié
-  api_key: "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" # ← à remplir
+  api_key: "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" # ← à remplir
   temperature: 0.1
   max_tokens: 1024
 
